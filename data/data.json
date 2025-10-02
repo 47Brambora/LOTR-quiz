@@ -1,0 +1,139 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Gandalf",
+      "image": "images/gandalf.jpg",
+      "questions": [
+        {
+          "question": "Jaké je Gandalfovo původní jméno mezi Maiar?",
+          "answer": "Olórin"
+        },
+        {
+          "question": "Jakou barvu měl Gandalf na začátku příběhu?",
+          "answer": "Šedou"
+        },
+        {
+          "question": "Kdo poslal Gandalfa do Středozemě?",
+          "answer": "Valar"
+        },
+        {
+          "question": "Jaký meč nosil Gandalf?",
+          "answer": "Glamdring"
+        },
+        {
+          "question": "Kdo se stal Gandalfovým koněm?",
+          "answer": "Shadowfax"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Prsten moci",
+      "image": "images/ring.jpg",
+      "questions": [
+        {
+          "question": "Kdo ukoval Jeden prsten?",
+          "answer": "Sauron"
+        },
+        {
+          "question": "V jaké hoře byl prsten zničen?",
+          "answer": "Orodruin"
+        },
+        {
+          "question": "Kdo prsten našel po Isildurově smrti?",
+          "answer": "Déagol"
+        },
+        {
+          "question": "Jaký nápis se objeví na prstenu v ohni?",
+          "answer": "Jeden prsten vládne všem..."
+        },
+        {
+          "question": "Kdo nesl prsten do Mordoru?",
+          "answer": "Frodo"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Hobitín",
+      "image": "images/hobbiton.jpg",
+      "questions": [
+        {
+          "question": "Kdo bydlel v Dno pytle?",
+          "answer": "Bilbo Pytlík"
+        },
+        {
+          "question": "Jak se jmenuje hostinec v Hobitíně?",
+          "answer": "Zelený drak"
+        },
+        {
+          "question": "Kdo byl Bilbovým zahradníkem?",
+          "answer": "Sam"
+        },
+        {
+          "question": "Jaký druh bytostí jsou hobiti?",
+          "answer": "Malí lidé"
+        },
+        {
+          "question": "Kdo adoptoval Froda?",
+          "answer": "Bilbo"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Smaug",
+      "image": "images/smaug.jpg",
+      "questions": [
+        {
+          "question": "Kde Smaug žil?",
+          "answer": "Erebor"
+        },
+        {
+          "question": "Kdo Smauga probudil?",
+          "answer": "Bilbo"
+        },
+        {
+          "question": "Jak byl Smaug zabit?",
+          "answer": "Šípem"
+        },
+        {
+          "question": "Kdo zabil Smauga?",
+          "answer": "Bard"
+        },
+        {
+          "question": "Jaká byla Smaugova slabina?",
+          "answer": "Břicho"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Rohan",
+      "image": "images/rohan.jpg",
+      "questions": [
+        {
+          "question": "Jak se jmenuje hlavní město Rohanu?",
+          "answer": "Edoras"
+        },
+        {
+          "question": "Kdo byl králem Rohanu během Války o prsten?",
+          "answer": "Théoden"
+        },
+        {
+          "question": "Jak se jmenuje slavná pevnost Rohanu?",
+          "answer": "Helmův žleb"
+        },
+        {
+          "question": "Jak se jmenuje Théodenova neteř?",
+          "answer": "Éowyn"
+        },
+        {
+          "question": "Jak se jmenuje Théodenův syn?",
+          "answer": "Théodred"
+        }
+      ]
+    }
+  ]
+}
