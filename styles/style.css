@@ -8,16 +8,45 @@
 body {
   height: calc(100dvh - 20px);
   border: solid 10px;
-}
-
-#all {
-  height: 100dvh;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
 
-#all #buttons {
+button {
+  background-color: rgba(0, 0, 0, 0.2);
+  width: fit-content;
+  font-weight: bolder;
+  font-size: 3dvh;
+  padding: 0.75dvh;
+  border: solid 0.5dvh rgb(194, 165, 0);
+  border-radius: 100dvh;
+}
+
+p {
+  font-size: 2dvh;
+  font-weight: 600;
+}
+
+.responsive-h1 {
+  font-size: 10dvh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 15dvh;
+  width: fit-content;
+  gap: 0;
+}
+.responsive-h1-span,
+.responsive-h1-quiz {
+  flex-direction: column;
+}
+
+#buttons {
+  display: flex;
   flex-direction: row;
+}
+
+@media (max-width: 600px) {
 }

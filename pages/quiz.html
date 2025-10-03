@@ -4,18 +4,65 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../styles/style.css" />
+    <style>
+      img {
+        height: 40dvh;
+        width: 50dvh;
+        border: solid 1dvh rgb(194, 165, 0);
+        border-radius: 8% / 10%;
+      }
+
+      button {
+        font-size: 2.5dvh;
+        margin: 0 0 3dvh 0;
+        width: 25.5dvh;
+      }
+
+      .responsive-h1 {
+        margin: 5dvh 0 1dvh 0;
+        flex-direction: row;
+        gap: 0.25em;
+      }
+
+      .buttons {
+        width: 52dvh;
+        display: flex;
+        justify-content: space-between;
+      }
+
+      #topic {
+        font-size: 5dvh;
+        margin: 1dvh 0;
+      }
+
+      #questions {
+        margin-bottom: 1dvh;
+      }
+    </style>
     <title>LOTR & Hobit quiz</title>
   </head>
   <body>
-    <div id="all">
-      <h1>LOTR & Hobit quiz</h1>
-      <h2 id="topic">Téma:</h2>
-      <!--img-->
-      <div id="questions"><!--questions--></div>
-      <div class="buttons">
-        <button id="showAnswers">Ukázat Odpovědi</button>
-        <button id="nextTopic">Další Otázky</button>
+    <h1 class="responsive-h1">
+      <span>LOTR</span>
+      <span>&amp;</span>
+      <span>Hobit</span>
+    </h1>
+    <h2 id="topic">Téma:</h2>
+    <div id="img"><img src="../images/ring-of-power.jpg" alt="Ring of Power" /></div>
+    <div id="questions">
+      <div id="vycpávka">
+        <ol>
+          <li>xxx</li>
+          <li>xxx</li>
+          <li>xxx</li>
+          <li>xxx</li>
+          <li>xxx</li>
+        </ol>
       </div>
+    </div>
+    <div class="buttons">
+      <button id="showAnswers">Ukázat Odpovědi</button>
+      <button id="nextTopic">Další Otázky</button>
     </div>
     <script src="../js/quiz.js"></script>
   </body>
