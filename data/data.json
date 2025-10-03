@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Gandalf",
-      "image": "images/gandalf.jpg",
+      "image": "../images/gandalf.jpg",
       "questions": [
         {
           "question": "Jaké je Gandalfovo původní jméno mezi Maiar?",
@@ -30,7 +30,7 @@
     {
       "id": 2,
       "title": "Prsten moci",
-      "image": "images/ring-of-power.jpg",
+      "image": "../images/ring-of-power.jpg",
       "questions": [
         {
           "question": "Kdo ukoval Jeden prsten?",
@@ -57,7 +57,7 @@
     {
       "id": 3,
       "title": "Hobitín",
-      "image": "images/hobbiton.jpg",
+      "image": "../images/hobbiton.jpg",
       "questions": [
         {
           "question": "Kdo bydlel v Dno pytle?",
@@ -84,7 +84,7 @@
     {
       "id": 4,
       "title": "Smaug",
-      "image": "images/eye-smaug.jpg",
+      "image": "../images/eye-smaug.jpg",
       "questions": [
         {
           "question": "Kde Smaug žil?",
@@ -111,7 +111,7 @@
     {
       "id": 5,
       "title": "Rohan",
-      "image": "images/rohan.jpg",
+      "image": "../images/rohan-hall.jpg",
       "questions": [
         {
           "question": "Jak se jmenuje hlavní město Rohanu?",

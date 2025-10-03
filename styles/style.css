@@ -4,3 +4,20 @@
   padding: 0;
   margin: 0;
 }
+
+body {
+  height: calc(100dvh - 20px);
+  border: solid 10px;
+}
+
+#all {
+  height: 100dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#all #buttons {
+  flex-direction: row;
+}
