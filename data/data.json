@@ -30,7 +30,7 @@
     {
       "id": 2,
       "title": "Prsten moci",
-      "image": "images/ring.jpg",
+      "image": "images/ring-of-power.jpg",
       "questions": [
         {
           "question": "Kdo ukoval Jeden prsten?",
@@ -84,7 +84,7 @@
     {
       "id": 4,
       "title": "Smaug",
-      "image": "images/smaug.jpg",
+      "image": "images/eye-smaug.jpg",
       "questions": [
         {
           "question": "Kde Smaug žil?",
