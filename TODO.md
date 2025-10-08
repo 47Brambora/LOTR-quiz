@@ -3,7 +3,6 @@
     dosazování náhodně vybraných témat a obrázků + otázek (i stylů pokud to pujde) k HTML file
 
 .css
-dodělání celkové
     udělat v index.file prsten který se bude otáčet a ve vnitř bude mít nápis LOTR & Hobit quiz
 
 .html
