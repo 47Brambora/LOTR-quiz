@@ -31,7 +31,7 @@ async function loadData() {
 loadData();
 
 //TODO: Ukáž správné odpovědí
-function showAnswers() {
-  //alert("Správné odpovědi:\n1.xxx\n2.xxx\n3.xxx\n4.xxx\n5.xxx");
-  alert("test");
-}
+function showAnswers() {}
+
+//TODO: Hození nových otázek
+function nextTopic() {}
