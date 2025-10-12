@@ -5,7 +5,7 @@ async function loadData() {
     if (!res.ok) throw new Error(`Fetch selhal: ${res.status}`);
     const data = await res.json();
 
-    //získání randomID na základě nejviššího id v .json file
+    //získání randomID na základě nejvyššího id v .json file
     const randomID = Math.floor(Math.random() * data.topics.length) + 1;
     const chosenTopic = data.topics.find((t) => t.id === randomID);
 
@@ -30,8 +30,11 @@ async function loadData() {
 }
 loadData();
 
-//TODO: Ukáž správné odpovědí
+//TODO: Ukaž správné odpovědí
 function showAnswers() {}
 
 //TODO: Hození nových otázek
 function nextTopic() {}
+
+//TODO: Po stisknutí tlačítka id ukázat přes alert id pro lehčí opravy
+function showID() {}

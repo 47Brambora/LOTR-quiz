@@ -83,27 +83,27 @@
     },
     {
       "id": 4,
-      "title": "Smaug",
+      "title": "Šmak",
       "image": "../images/eye-smaug.jpg",
       "questions": [
         {
-          "question": "Kde Smaug žil?",
+          "question": "Kde Šmak žil?",
           "answer": "Erebor"
         },
         {
-          "question": "Kdo Smauga probudil?",
+          "question": "Kdo Šmaka probudil?",
           "answer": "Bilbo"
         },
         {
-          "question": "Jak byl Smaug zabit?",
+          "question": "Jak byl Šmak zabit?",
           "answer": "Šípem"
         },
         {
-          "question": "Kdo zabil Smauga?",
+          "question": "Kdo zabil Šmaka?",
           "answer": "Bard"
         },
         {
-          "question": "Jaká byla Smaugova slabina?",
+          "question": "Jaká byla Šmakova slabina?",
           "answer": "Břicho"
         }
       ]
@@ -132,6 +132,249 @@
         {
           "question": "Jak se jmenuje Théodenův syn?",
           "answer": "Théodred"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Gondor",
+      "image": "",
+      "questions": [
+        {
+          "question": "Jak se jmenuje hlavní město Gondoru?",
+          "answer": "Minas Tirith"
+        },
+        {
+          "question": "Kdo byl správcem Gondoru během Války o prsten?",
+          "answer": "Denethor"
+        },
+        {
+          "question": "Jak se jmenuje syn Denethora, který přežil?",
+          "answer": "Faramir"
+        },
+        {
+          "question": "Co má Gondor ve znaku?",
+          "answer": "Bílí strom se sedmi hvězdami nad ním(palantíry)"
+        },
+        {
+          "question": "Kdo se stal králem Gondoru po válce?",
+          "answer": "Aragorn"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Lothlórien",
+      "image": "",
+      "questions": [
+        {
+          "question": "Kdo vládne Lothlórienu?",
+          "answer": "Galadriel"
+        },
+        {
+          "question": "Jak se jmenuje její manžel?",
+          "answer": "Celeborn"
+        },
+        {
+          "question": "Jak se jmenuje strom, pod kterým spí Společenstvo",
+          "answer": "Mallorn"
+        },
+        {
+          "question": "Jak se jmenuje řeka, která protéká Lothlórienem?",
+          "answer": "Celebrant"
+        },
+        {
+          "question": "Jaký dar dostal Frodo od Paní lesa?",
+          "answer": "Světlo z Eärendilovy hvězdy"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Moria",
+      "image": "",
+      "questions": [
+        {
+          "question": "Kdo byl poslední král Morie?",
+          "answer": "Balin"
+        },
+        {
+          "question": "Jak se jmenuje démon, který zabil Gandalfa?",
+          "answer": "Balrog"
+        },
+        {
+          "question": "Jak se jmenuje trpasličí město v Morii?",
+          "answer": "Khazad-dûm"
+        },
+        {
+          "question": "Jakou branou vstoupily do Morie? A jaké je heslo k ní?",
+          "answer": "Západní branou, Přítel"
+        },
+        {
+          "question": "Jak se jmenuje jezero před branou Morie",
+          "answer": "Černí tůň"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Elrond",
+      "image": "",
+      "questions": [
+        {
+          "question": "Kde sídlí Elrond?",
+          "answer": "Roklinka"
+        },
+        {
+          "question": "Jak se jmenuje Elrondova dcera?",
+          "answer": "Arwen"
+        },
+        {
+          "question": "Kdo byl Elrondův bratr?",
+          "answer": "Elros"
+        },
+        {
+          "question": "Kam se vydal po zkončení věku elfů?",
+          "answer": "Do Valinoru"
+        },
+        {
+          "question": "Jak se Elrondovy jinak říká?",
+          "answer": "Půlelf"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Saruman",
+      "image": "",
+      "questions": [
+        {
+          "question": "Jak se jmenuje věž ve, které sídlí Saruman?",
+          "answer": "Orthanc"
+        },
+        {
+          "question": "Jaký titul má Saruman?",
+          "answer": "Bílý čaroděj"
+        },
+        {
+          "question": "Jak se jmenovala monstra, která utvořil?",
+          "answer": "Uruk-hai"
+        },
+        {
+          "question": "Jaký prsten chtěl získat?",
+          "answer": "prsten moci"
+        },
+        {
+          "question": "Kdo zabil Sarumana?",
+          "answer": "Grima Červivec"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Společenstvo prstenu",
+      "image": "",
+      "questions": [
+        {
+          "question": "Kolik má Společenstvo členů?",
+          "answer": "devět"
+        },
+        {
+          "question": "Kdo vedl Společenstvo?",
+          "answer": "Gandalf"
+        },
+        {
+          "question": "Kdo byl jediný trpaslík & elf ve Společenstvu?",
+          "answer": "Gimli syn Glóina a Legolas Thranduilion"
+        },
+        {
+          "question": "Co mělo společenstvo úkolem?",
+          "answer": "zničit prsten moci"
+        },
+        {
+          "question": "Kde se poprvé Společestvo rozdělilo? A kdo se oddělil?",
+          "answer": "Na břehu řeky Anduiny. Oddělil se Frodo Pytlík a Sam Křepelka"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Bilbo Pytlík",
+      "image": "",
+      "questions": [
+        {
+          "question": "Kde žil Bilbo po tom co utekl z Kraje?",
+          "answer": "V Roklince"
+        },
+        {
+          "question": "Jak se jmenuje dům kde Bilbo bydlel?",
+          "answer": "Dno pytle"
+        },
+        {
+          "question": "Jaký poklad nalezl Bilbo v jeskyni?",
+          "answer": "prsten moci"
+        },
+        {
+          "question": "Jaký meč nosil Bilbo?",
+          "answer": "Žihadlo"
+        },
+        {
+          "question": "Kdy odešel Bilbo z Kraje?",
+          "answer": "22. září 3001 Třetí věk"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Frodo Pytlík",
+      "image": "",
+      "questions": [
+        {
+          "question": "Kdo je Frodův strýc?",
+          "answer": "Bilbo Pytlík"
+        },
+        {
+          "question": "Kdo ho provází na cestě k hoře Osudu?",
+          "answer": "Samvěd Křepelka"
+        },
+        {
+          "question": "Kdo ho zradí u Cirith Ungol?",
+          "answer": "Gollum"
+        },
+        {
+          "question": "Má celou cestu prsten u sebe?",
+          "answer": "Ne, nemá. Chvilku ho nese Sam"
+        },
+        {
+          "question": "Kam poprvé zamíří z domova?",
+          "answer": "Do Hůrky kde se má setkat s Gandalfem"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Bitva pěti armád",
+      "image": "",
+      "questions": [
+        {
+          "question": "Kde se bitva odehrála?",
+          "answer": "U Osamělé hory"
+        },
+        {
+          "question": "Kdo vedl trpaslíky ze železných hor?",
+          "answer": "Dain Železná noha"
+        },
+        {
+          "question": "Kdo vedl elfy?",
+          "answer": "Thranduil"
+        },
+        {
+          "question": "Kdo vedl lidi z jezerního města?",
+          "answer": "Bard Lučištník"
+        },
+        {
+          "question": "Kdo významný padl v Bitvě?",
+          "answer": "Thorin Pavéza, Fili, Kili a mnoho dalších"
         }
       ]
     }
