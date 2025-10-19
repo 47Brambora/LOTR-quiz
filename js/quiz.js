@@ -19,7 +19,25 @@ async function loadData() {
       );
       return;
     }
-    // kontrola výchozích dat
+
+    //Nastavení tématu
+    document.getElementById("topic").textContent = "Téma: " + chosenTopic.title;
+
+    //!nefachá
+    //Nastavení obrázku
+    const imgDiv = document.getElementById("img");
+    imgDiv.innerHTML = '<img src="./images/${chosenTopic.image}" alt="${chosenTopic.title} />"';
+
+    //Vypsání otázek
+    const list = document.getElementById("questionList");
+    list.innerHTML = "";
+    chosenTopic.questions.forEach((q) => {
+      const li = document.createElement("li");
+      li.textContent = q.question;
+      list.appendChild(li);
+    });
+
+    // Debug
     console.log("ID:", randomID);
     console.log("Title:", chosenTopic.title);
     console.log("Image:", chosenTopic.image);
