@@ -20,6 +20,10 @@ async function loadData() {
       return;
     }
 
+    // Uložení ID a téma globálně
+    window.currentTopicID = randomID;
+    window.currentTopic = chosenTopic;
+
     //Nastavení tématu
     document.getElementById("topic").textContent = "Téma: " + chosenTopic.title;
 
@@ -53,11 +57,29 @@ async function loadData() {
 }
 loadData();
 
-//TODO: Ukaž správné odpovědí
-function showAnswers() {}
+// Ukaž správné odpovědí
+function showAnswers() {
+  if (!window.currentTopic) {
+    alert("Není načteno žádné téma");
+    return;
+  }
 
-//TODO: Hození nových otázek
-function nextTopic() {}
+  const answer = window.currentTopic.questions.map((q, i) => `Otázka ${i + 1}: ${q.answer}`);
 
-//TODO: Po stisknutí tlačítka id ukázat přes alert id pro lehčí opravy
-function showID() {}
+  alert(answer.join("\n"));
+}
+
+// Hození nových otázek
+function nextTopic() {
+  loadData();
+}
+
+// Po stisknutí tlačítka id ukázat přes alert id pro lehčí opravy
+function showID() {
+  alert("ID aktuálního tématu: " + window.currentTopicID);
+}
+
+// Připojení tlačítek
+document.getElementById("btnShowAnswers").addEventListener("click", showAnswers);
+document.getElementById("btnNextTopic").addEventListener("click", nextTopic);
+document.getElementById("btnShowID").addEventListener("click", showID);
