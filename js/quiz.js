@@ -27,7 +27,6 @@ async function loadData() {
     //Nastavení tématu
     document.getElementById("topic").textContent = "Téma: " + chosenTopic.title;
 
-    //!nefachá
     //Nastavení obrázku
     const imgDiv = document.getElementById("img");
     // Nastavení obrázku bezpečně bez innerHTML s interpolovaným alt textem vhodným pro čtečky obrazovky
