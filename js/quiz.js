@@ -26,7 +26,12 @@ async function loadData() {
     //!nefachá
     //Nastavení obrázku
     const imgDiv = document.getElementById("img");
-    imgDiv.innerHTML = '<img src="./images/${chosenTopic.image}" alt="${chosenTopic.title} />"';
+    // Nastavení obrázku bezpečně bez innerHTML s interpolovaným alt textem vhodným pro čtečky obrazovky
+    imgDiv.innerHTML = "";
+    const img = document.createElement("img");
+    img.src = `../images/${chosenTopic.image}`;
+    img.alt = `${chosenTopic.title} — ilustrační obrázek tématu, neutrální pozadí, informativní tón`;
+    imgDiv.appendChild(img);
 
     //Vypsání otázek
     const list = document.getElementById("questionList");
