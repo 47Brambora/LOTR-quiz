@@ -36,7 +36,7 @@ This project uses images from various sources. Authors and licenses are listed b
   Autor: marcoianna3
   Source: https://cdn.pixabay.com/photo/2020/01/12/17/31/middle-earth-4760561_960_720.jpg
 
-# Template & Licenses Template
+<!-- Template & Licenses Template 
 
 ## License name
 
@@ -53,3 +53,4 @@ The following files are used with explicit permission from the original author(s
   Author: John Doe  
   License: All rights reserved – used with permission  
   Permission granted: 2025-11-21 (via email confirmation)
+-->
