@@ -32,7 +32,7 @@ async function loadData() {
     // Nastavení obrázku bezpečně bez innerHTML s interpolovaným alt textem vhodným pro čtečky obrazovky
     imgDiv.innerHTML = "";
     const img = document.createElement("img");
-    img.src = `../images/${chosenTopic.image}`;
+    img.src = `${chosenTopic.image}`;
     img.alt = `${chosenTopic.title} — ilustrační obrázek tématu, neutrální pozadí, informativní tón`;
     imgDiv.appendChild(img);
 
