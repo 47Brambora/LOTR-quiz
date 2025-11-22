@@ -1,3 +1,7 @@
+# Used Themes (title) in quiz
+
+## Number of themes is 87
+
 1.  Gandalf
 2.  Prsten moci
 3.  Hobitín
@@ -17,12 +21,12 @@
 16. Legolas
 17. Gimli
 18. Boromir
-19. Samvěd Křepelka
-20. Peregrin Bral (Pippin)
----
-21. Smíšek (Meriadoc Brandybuck)
+19. Samvěd Křepelka (Sam)
+20. Pippin
+
+21. Galadriel
 22. Arwen
-23. Galadriel
+23. Smíšek
 24. Celeborn
 25. Théoden
 26. Éowyn
@@ -30,7 +34,7 @@
 28. Denethor
 29. Faramir
 30. Númenor
----
+
 31. Tom Bombadil
 32. Zlatinka (Goldberry)
 33. Glorfindel
@@ -39,37 +43,37 @@
 36. Sauron
 37. Morgoth
 38. Silmarily
-39. Beren a Lúthien
+39. Příběh o Berenovi a Lúthien (only four questions)
 40. Túrin Turambar
 
-41. Finrod Felagund
+41. Finrod
 42. Národy elfů (Vanyar, Noldor, Teleri)
 43. Enti
-44. Stromovous (Treebeard)
-45. Skurut-hai (Uruk-hai)
+44. Nargothrond
+45. Skurut-hai
 46. Orkové
 47. Trollové
 48. Nazgûlové (Prstenové přízraky)
-49. Černokněžný král Angmaru
-50. Angmar
+49. Doriath
+50. Cesta trpaslíků do Ereboru
 
 51. Minas Morgul
 52. Barad-dûr
-53. Orodruin (Mount Doom)
+53. Hora Osudu (Orodruin)
 54. Mordor
-55. Černá brána (Morannon)
+55. Morannon (Černá brána)
 56. Ithilien
 57. Osgiliath
-58. Edoras (město)
-59. Helmův žleb (Helm’s Deep)
+58. Edoras
+59. Helmův žleb
 60. Pelennorská pole
 
-61. Bitva u Černé brány
+61. Bitva u Morrannonu (Černé brány)
 62. Bitva o Helmův žleb
 63. Bitva o Osgiliath
 64. Bitva o Pelennor
-65. Mohyly (Barrow-downs)
-66. Mlžné hory (Misty Mountains)
+65. Thingol
+66. Mlžné hory
 67. Erebor (Osamělá hora)
 68. Jezerní město (Esgaroth)
 69. Thranduil
@@ -79,11 +83,11 @@
 72. Hůrka
 73. Hostinec „U Skákajícího poníka“
 74. Roklinka
-75. Bažiny mrtvých (Dead Marshes)
-76. Kraj (The Shire)
-77. Cesta přes Caradhras
+75. Bažiny mrtvých
+76. Kraj
+77. Caradhras
 78. Řeka Anduin
-79. Jezerní lidé (Lake-men)
+79. Jezerní lidé
 80. Dáin Železná noha
 
 81. Thorin Pavéza
@@ -92,7 +96,4 @@
 84. Dwalin
 85. Oin a Gloin
 86. Bifur, Bofur, Bombur
-87. Cesta trpaslíků do Ereboru
-88. Bitva u Azanulbizaru
-89. Doriath
-    
+87. Cesta přez Caradhras
