@@ -535,8 +535,116 @@
           "answer": "Zasadil rozhodující ránu obrovi trollovi"
         },
         {
-          "question": "Co za klukovinu udělal v Morii?",
-          "answer": "Schodil kostru do studny"
+          "question": "Co omilem udělal v Morii a proměnilo se to v hroznou věc?",
+          "answer": "Schodil kostru do studny a přivolal tím skurut-hai"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Galadriel",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "Jak ji Gimli nazval ve filmu když kráčeli lesem?",
+          "answer": "Elfská čarodějka"
+        },
+        {
+          "question": "Jaký prsten má Galadriel?",
+          "answer": "Nenya"
+        },
+        {
+          "question": "Kdo byl jeji manžel?",
+          "answer": "Celeborn"
+        },
+        {
+          "question": "Jakou roli měl v Lothlórienu?",
+          "answer": "Byla paní Lesa"
+        },
+        {
+          "question": "Jaký byl Galadrielin vztah k Finrodovi Felagundovi?",
+          "answer": "Byla jeho sestra"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Smíšek",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "Kdo byl Smíškův nejbližší společník??",
+          "answer": "Peregrin Bral (Pippin)"
+        },
+        {
+          "question": "Jakou roli sehrál v bitvě na Pelennorských polích?",
+          "answer": "Pomohl Éowyn porazit krále Angmaru"
+        },
+        {
+          "question": "Jaký byl Smíškův vztah k Frodo Pytlíkovi?",
+          "answer": "Byl jeho věrný přítel a člen Společenstva prstenu"
+        },
+        {
+          "question": "Jakou roli měl Smíšek při korunovaci Aragorna?",
+          "answer": "Účastnil se slavnosti jako člen Společenstva prstenu"
+        },
+        {
+          "question": "Jaký dar dostal Smíšek od Rohirů?",
+          "answer": "Rohanský meč"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Arwen",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "Kdo je Arwenin otec?",
+          "answer": "Elrond"
+        },
+        {
+          "question": "Jaké měla elfské jméno?",
+          "answer": "Undómiel (Dcera soumraku)"
+        },
+        {
+          "question": "Koho si vzal za manžela?",
+          "answer": "Aragorna"
+        },
+        {
+          "question": "Co se sní stalo po svatbě?",
+          "answer": "Stala se smrtelnou."
+        },
+        {
+          "question": "Jaký vztah měla Arwen k Elrosovi, prvním králi Númenoru?",
+          "answer": "Byla jeho vzdálenou příbuznou. Elros byl bratr Elronda."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Celeborn",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "Kdo byla Celebornova manželka?",
+          "answer": "Galadriel"
+        },
+        {
+          "question": "Kde vládl?",
+          "answer": "V Lothlórienu"
+        },
+        {
+          "question": "Jaký je jeho původ?",
+          "answer": "Elf z Doriathu"
+        },
+        {
+          "question": "Jaký měl postoj k trpaslíkům?",
+          "answer": "Nedůvěřoval jim, zejména asi kvůli minulosti Morie."
+        },
+        {
+          "question": "Jaký vztach měl Celeborn k Arwen?",
+          "answer": "Byl jejím dědem z matčiny strany."
         }
       ]
     },

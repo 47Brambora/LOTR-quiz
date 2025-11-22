@@ -19,7 +19,7 @@
 18. Boromir
 19. Samvěd Křepelka
 20. Peregrin Bral (Pippin)
-
+---
 21. Smíšek (Meriadoc Brandybuck)
 22. Arwen
 23. Galadriel
@@ -29,8 +29,8 @@
 27. Éomer
 28. Denethor
 29. Faramir
-30. Boromirův osud
-
+30. Númenor
+---
 31. Tom Bombadil
 32. Zlatinka (Goldberry)
 33. Glorfindel
@@ -95,5 +95,4 @@
 87. Cesta trpaslíků do Ereboru
 88. Bitva u Azanulbizaru
 89. Doriath
-90. Númenor
     
