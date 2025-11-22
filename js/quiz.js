@@ -33,7 +33,7 @@ async function loadData() {
     imgDiv.innerHTML = "";
     const img = document.createElement("img");
     img.src = `${chosenTopic.image}`;
-    img.alt = `${chosenTopic.title} — ilustrační obrázek tématu, neutrální pozadí, informativní tón`;
+    img.alt = `${chosenTopic.title} — ilustrační obrázek tématu`;
     imgDiv.appendChild(img);
 
     //Vypsání otázek

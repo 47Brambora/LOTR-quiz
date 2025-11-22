@@ -96,7 +96,7 @@
         },
         {
           "question": "Jak byl Šmak zabit?",
-          "answer": "Šípem"
+          "answer": "Černým šípem"
         },
         {
           "question": "Kdo zabil Šmaka?",
@@ -375,6 +375,222 @@
         {
           "question": "Kdo významný padl v Bitvě?",
           "answer": "Thorin Pavéza, Fili, Kili a mnoho dalších"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Aragorn",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "K jakému rodu lidí patří?",
+          "answer": "Dúnadani"
+        },
+        {
+          "question": "Jakou přezdívku užíval při pobytu v Hůrce?",
+          "answer": "Chodec"
+        },
+        {
+          "question": "Koho si vzal za manželku?",
+          "answer": "Arwen"
+        },
+        {
+          "question": "Jméno královtví které obnovil a poté mu i vládl?",
+          "answer": "Gondor"
+        },
+        {
+          "question": "Jak se jmenoval meč, který nosil?",
+          "answer": "Andúril"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Legolas",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "Z jakého elfského království pochází?",
+          "answer": "Lesní říše (Mirkwood)"
+        },
+        {
+          "question": "Kdo byl Legolasův otec?",
+          "answer": "Thranduil"
+        },
+        {
+          "question": "Jakou zbraň nejčastěji používal?",
+          "answer": "Luk a šíp"
+        },
+        {
+          "question": "Jaký vztach si vyvynul k Gimlimu?",
+          "answer": "Přátelský"
+        },
+        {
+          "question": "Kam Legolas odplul na konci třetího filmu Pána prstenů?",
+          "answer": "Do Valinoru"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Gimli",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "Z jakého trpasličího rodu pochází?",
+          "answer": "Durinova linie"
+        },
+        {
+          "question": "Kdo byl Gimliho otec?",
+          "answer": "Glóin"
+        },
+        {
+          "question": "Jakou zbraň Gimli nejčasťeji používal?",
+          "answer": "Sekera"
+        },
+        {
+          "question": "Jaký dar dostal od Paní lesa?",
+          "answer": "Pramínek jejích vlasů"
+        },
+        {
+          "question": "Jaký vztach si vyvynul k Legolasovi?",
+          "answer": "Přátelský"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Boromir",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "Kdo byl Boromirův otec?",
+          "answer": "Denetor"
+        },
+        {
+          "question": "Jaký titul měl v Gondoru?",
+          "answer": "Kapitán Bílé věže?"
+        },
+        {
+          "question": "Jak boromor zemřel?",
+          "answer": "Padl v bitvě proti skurut-hai při obraně hobitů"
+        },
+        {
+          "question": "Co byl Faramir Boromirovi?",
+          "answer": "Bratr"
+        },
+        {
+          "question": "Co se stalo s Boromirovým tělem po tom co padl?",
+          "answer": "Byl spuštěn po řece Anduině v člunu"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Samvěd Křepelka (Sam)",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "Jaké povolání měl před cestou?",
+          "answer": "Zahradník"
+        },
+        {
+          "question": "Kdo byl jeho nejlepší přítel?",
+          "answer": "Frodo"
+        },
+        {
+          "question": "Jaký dar dostal od Paní lesa?",
+          "answer": "Semínka z Lothlórienu"
+        },
+        {
+          "question": "Jak využil lahvičku se světlem Eärendilovy hvězdy od Galadriel?",
+          "answer": "K obraně proti Odule"
+        },
+        {
+          "question": "Jak Sam pomohl Frodoovi při cestě do Mordoru, když už Frodo nemohl dál?",
+          "answer": "Nesl Froda na svých zádech"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Pippin",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "Z jakého hobitího rodu Pippin pochází?",
+          "answer": "Bralové (celé jméno: Pelegrin Bral)"
+        },
+        {
+          "question": "Jakou roli měl v Gondoru?",
+          "answer": "Strážce bílé věže"
+        },
+        {
+          "question": "Jak se Pippin dostal do služby v Gondoru?",
+          "answer": "Nabídl se Denethorovi po záchraně Faramira."
+        },
+        {
+          "question": "Jak Pippin přispěl k vítězství v bitvě u Černé brány?",
+          "answer": "Zasadil rozhodující ránu obrovi trollovi"
+        },
+        {
+          "question": "Co za klukovinu udělal v Morii?",
+          "answer": "Schodil kostru do studny"
+        }
+      ]
+    },
+    {
+      "id": ,
+      "title": "",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "",
+          "answer": ""
+        },
+        {
+          "question": "",
+          "answer": ""
+        },
+        {
+          "question": "",
+          "answer": ""
+        },
+        {
+          "question": "",
+          "answer": ""
+        },
+        {
+          "question": "",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "id": ,
+      "title": "",
+      "image": "../assets/images",
+      "questions": [
+        {
+          "question": "",
+          "answer": ""
+        },
+        {
+          "question": "",
+          "answer": ""
+        },
+        {
+          "question": "",
+          "answer": ""
+        },
+        {
+          "question": "",
+          "answer": ""
+        },
+        {
+          "question": "",
+          "answer": ""
         }
       ]
     }
