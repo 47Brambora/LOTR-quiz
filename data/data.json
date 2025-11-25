@@ -1163,24 +1163,24 @@
       "image": "../assets/images",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo založil Nargothrond?",
+          "answer": "Finrod Felagund"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kde se nacházek?",
+          "answer": "V jeskyních u řeky Narog v Beleriadu."
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jakou roli sehrál Nargothrond v boji proti Motgothovi?",
+          "answer": "Byl jedním z hlavních center odporu."
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo zničil Nargothrond?",
+          "answer": "Drak Glaurung"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl jeho osud po zničení",
+          "answer": "Zůstalo ležet opuštěné v troskách"
         }
       ]
     },
@@ -1190,105 +1190,101 @@
       "image": "../assets/images",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo je vytvořil?",
+          "answer": "Sauron, okolo třetího věku"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jak se odlišují od běžných skřetů?",
+          "answer": "Byli vyšší, silnější, odolnější proti slunci"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký je překlad?",
+          "answer": "skřetí lid"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jak se objevovali na světě (film)?",
+          "answer": "Rodili se z bláta"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl jejich osud po konci války?",
+          "answer": "Byli rozprášeni a pobiti v bitvách"
         }
       ]
     },
     {
       "id": 46,
-      "title": "Orkové",
+      "title": "Skřeti",
       "image": "../assets/images",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jak první skřeti vznikli?",
+          "answer": "Morgot zkazil zajaté elfy a pak je znetvořil"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký býl hlavní účel skřetů?",
+          "answer": "Sloužit Morgothovi jako vojaci a nástroje zla"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký měli vzhled?",
+          "answer": "Zakrslí, shrbení, tmavá kůže, ostré zuby"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Slavní vůdci skřetů",
+          "answer": "Azok Znesvětitel, Velký skřet"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl osud skřetů po zničení Prstenu?",
+          "answer": "Byli rozprášeni a zničeni, jejich moc se rozpadla"
         }
       ]
     },
     {
       "id": 47,
-      "title": "Trollové",
+      "title": "Cesta přez Caradhras",
       "image": "../assets/images",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Co je Caradhras?",
+          "answer": "Hora v Mlžných horách"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Proč se Společenstvo vydalo přes Caradhras?",
+          "answer": "Hledali cestu do Mordoru, chtěli se vyhnout průchodu přes Morii"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaké bylo počasí?",
+          "answer": "Kruté, vánice, sních a vítr"
         },
         {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl konečný důsledek cesty přes Caradhras?",
+          "answer": "Společenstvo bylo donuceno vstoupit do Morie"
         }
       ]
     },
     {
       "id": 48,
-      "title": "Doriath",
+      "title": "Nazgûlové (Prstenové přízraky)",
       "image": "../assets/images",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo to byli Nazgûlové",
+          "answer": "Devět králů lidí, kteří podlehli moci Prstenů"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo byl jejich vůdce?",
+          "answer": "Černokněžný král z Angmaru"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl jejich hlavní úkol?",
+          "answer": "Najít jJeden prsten a přinést ho Sauronovi"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo jim dal jejich prsteny?",
+          "answer": "Sauron"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl jejich osud po zničení Prstenu?",
+          "answer": "Byly navždy zničeni. rozptíleni v nicotu"
         }
       ]
     },
@@ -1298,24 +1294,24 @@
       "image": "../assets/images",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo tam vládl?",
+          "answer": "Thingol, manžel Maii Melian"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Co chránilo Doriath?",
+          "answer": "Melianina zeď"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký význam pro Doriath má Beren a Lúthien?",
+          "answer": "Thingol dal Berenovi úkol, aby přinesl Silmarill, aby si mohl vzít Lúthien. (uspěl)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Co se stalo s Thingolem?",
+          "answer": "Byl zabit trpaslíky z Nogrodu kvůli sporu o Silmaril"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl osud Doriathu po Thingolově smrti?",
+          "answer": "Doriath se rozpatl a jelikož Melian po jeho smrti odešla do Valinoru tak se zrušila i Melianina zeď."
         }
       ]
     },
@@ -1325,24 +1321,24 @@
       "image": "../assets/images",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kolik bylo členů výpravy?",
+          "answer": "Čtrnáct"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo jim přečetl mapu od Gandalfa?",
+          "answer": "Elrond"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Co se stalo Bilbovi v Mlžných horách?",
+          "answer": "Ztratil se výpravě a našel prsten u Gluma"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo jim pomohl uniknout před vrky a skřety?",
+          "answer": "Orli"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl konečný výsledek cesty?",
+          "answer": "Výprava dorazila k Erebornu, Šmak byl zabit a strhla se bitva pěti armád."
         }
       ]
     },
@@ -2294,33 +2290,6 @@
     {
       "id": 86,
       "title": "Bifur, Bofur, Bombur",
-      "image": "../assets/images",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "title": "Cesta přez Caradhras",
       "image": "../assets/images",
       "questions": [
         {

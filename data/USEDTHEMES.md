@@ -1,6 +1,6 @@
 # Used Themes (title) in quiz
 
-## Number of themes is 87
+## Number of themes is 86
 
 1.  Gandalf
 2.  Prsten moci
@@ -51,8 +51,8 @@
 43. Enti
 44. Nargothrond
 45. Skurut-hai
-46. Orkové
-47. Trollové
+46. Skřeti
+47. Cesta přez Caradhras (only four questions)
 48. Nazgûlové (Prstenové přízraky)
 49. Doriath
 50. Cesta trpaslíků do Ereboru
@@ -96,4 +96,3 @@
 84. Dwalin
 85. Oin a Gloin
 86. Bifur, Bofur, Bombur
-87. Cesta přez Caradhras
