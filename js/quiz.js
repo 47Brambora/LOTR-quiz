@@ -1,7 +1,7 @@
 //Načtení dat z .json  file
 async function loadData() {
   try {
-    const res = await fetch("../data/data.json");
+    const res = await fetch("../data/data_cs.json");
     if (!res.ok) throw new Error(`Fetch selhal: ${res.status}`);
     const data = await res.json();
 
@@ -27,14 +27,16 @@ async function loadData() {
     //Nastavení tématu
     document.getElementById("topic").textContent = "Téma: " + chosenTopic.title;
 
-    //Nastavení obrázku
-    const imgDiv = document.getElementById("img");
-    // Nastavení obrázku bezpečně bez innerHTML s interpolovaným alt textem vhodným pro čtečky obrazovky
-    imgDiv.innerHTML = "";
-    const img = document.createElement("img");
-    img.src = `${chosenTopic.image}`;
-    img.alt = `${chosenTopic.title} — ilustrační obrázek tématu`;
-    imgDiv.appendChild(img);
+    //TODO: New Nastavení obrázku bude kontrolovat pokud obrázek existuje pokud ne tak užije náhodný
+
+    ////Nastavení obrázku
+    //const imgDiv = document.getElementById("img");
+    //// Nastavení obrázku
+    //imgDiv.innerHTML = "";
+    //const img = document.createElement("img");
+    //img.src = `${chosenTopic.image}`;
+    //img.alt = `${chosenTopic.title} — ilustrační obrázek tématu`;
+    //imgDiv.appendChild(img);
 
     //Vypsání otázek
     const list = document.getElementById("questionList");
