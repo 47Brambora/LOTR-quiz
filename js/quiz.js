@@ -1,15 +1,15 @@
-//Načtení dat z .json  file
+// Loading data from .json  file
 async function loadData() {
   try {
     const res = await fetch("../data/data_cs.json");
     if (!res.ok) throw new Error(`Fetch selhal: ${res.status}`);
     const data = await res.json();
 
-    //získání randomID na základě nejvyššího id v .json file
+    // get randomID based on the highest id in the .json file
     const randomID = Math.floor(Math.random() * data.topics.length) + 1;
     const chosenTopic = data.topics.find((t) => t.id === randomID);
 
-    //Error handling for chosenTopic & randomID
+    // Error handling for chosenTopic & randomID
     if (!chosenTopic) {
       console.error(
         "Nenalezené téma pro id",
@@ -20,7 +20,7 @@ async function loadData() {
       return;
     }
 
-    // Uložení ID a téma globálně
+    // Save ID and topic globally
     window.currentTopicID = randomID;
     window.currentTopic = chosenTopic;
 
@@ -29,14 +29,14 @@ async function loadData() {
 
     //TODO: New Nastavení obrázku bude kontrolovat pokud obrázek existuje pokud ne tak užije náhodný
 
-    ////Nastavení obrázku
-    //const imgDiv = document.getElementById("img");
-    //// Nastavení obrázku
-    //imgDiv.innerHTML = "";
-    //const img = document.createElement("img");
-    //img.src = `${chosenTopic.image}`;
-    //img.alt = `${chosenTopic.title} — ilustrační obrázek tématu`;
-    //imgDiv.appendChild(img);
+    //Nastavení obrázku
+    const imgDiv = document.getElementById("img");
+    // Nastavení obrázku
+    imgDiv.innerHTML = "";
+    const img = document.createElement("img");
+    img.src = `${chosenTopic.image}`;
+    img.alt = `${chosenTopic.title} — ilustrační obrázek tématu`;
+    imgDiv.appendChild(img);
 
     //Vypsání otázek
     const list = document.getElementById("questionList");
