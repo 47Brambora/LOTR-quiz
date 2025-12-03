@@ -27,14 +27,41 @@ async function loadData() {
     //Nastavení tématu
     document.getElementById("topic").textContent = "Téma: " + chosenTopic.title;
 
-    //TODO: New Nastavení obrázku bude kontrolovat pokud obrázek existuje pokud ne tak užije náhodný
+    // Default images
+    const defaultImages = [
+      "../assets/images/ChC-aragorn-and-arwen.jpg",
+      "../assets/images/ChC-bilbo-baggins.jpg",
+      "../assets/images/ChC-Eye-of-Sauron.jpg",
+      "../assets/images/ChC-frodo-and-sams-journey.jpg",
+      "../assets/images/ChC-frodo-at-rivendell.jpg",
+      "../assets/images/ChC-gandal-and-bilbo-having-tea.jpg",
+      "../assets/images/ChC-gandald-and-baalrog.jpg",
+      "../assets/images/ChC-gandalf-pippin-and-shadowfax.jpg",
+      "../assets/images/ChC-i-can-carry-you.jpg",
+      "../assets/images/ChC-leaving-lothlorien.jpg",
+      "../assets/images/ChC-minas-tirith-under-siege.jpg",
+      "../assets/images/ChC-Sauron-the-deceiver.jpg",
+    ];
+
+    function getImagePath(chosenTopic) {
+      // Nastavení obrázku bude kontrolovat pokud obrázek existuje pokud ne tak užije náhodný
+      if (chosenTopic.image) {
+        // Pokud v JSONu je cestapoužij toto
+        return `../assets/images/${chosenTopic.image}`;
+      } else {
+        // pokud v JSONu cesta není užij náhodný default obrázek
+        const randomIndex = Math.floor(Math.random() * defaultImages.length);
+        return defaultImages[randomIndex];
+      }
+    }
 
     //Nastavení obrázku
     const imgDiv = document.getElementById("img");
     // Nastavení obrázku
     imgDiv.innerHTML = "";
     const img = document.createElement("img");
-    img.src = `${chosenTopic.image}`;
+    img.src = getImagePath(chosenTopic);
+    //img.src = `../assets/images/${chosenTopic.image}`;
     img.alt = `${chosenTopic.title} — ilustrační obrázek tématu`;
     imgDiv.appendChild(img);
 
@@ -50,7 +77,7 @@ async function loadData() {
     // Debug
     console.log("ID:", randomID);
     console.log("Title:", chosenTopic.title);
-    console.log("Image:", chosenTopic.image);
+    console.log("Image:", getImagePath);
     console.log("Questions:", chosenTopic.questions);
   } catch (err) {
     console.error("Chyba při načítání .json file", err);

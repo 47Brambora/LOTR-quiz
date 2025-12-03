@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Gandalf",
-      "image": "../assets/images/gandaf-grey.png",
+      "image": "gandaf-grey.png",
       "questions": [
         {
           "question": "Jaké je Gandalfovo původní jméno mezi Maiar?",
@@ -30,7 +30,7 @@
     {
       "id": 2,
       "title": "Prsten moci",
-      "image": "../assets/images/ring-of-power.jpg",
+      "image": "ring-of-power.jpg",
       "questions": [
         {
           "question": "Kdo ukoval Jeden prsten?",
@@ -57,7 +57,7 @@
     {
       "id": 3,
       "title": "Hobitín",
-      "image": "../assets/images/hobbiton-door.jpg",
+      "image": "hobbiton-door.jpg",
       "questions": [
         {
           "question": "Kdo bydlel v Dno pytle?",
@@ -84,7 +84,7 @@
     {
       "id": 4,
       "title": "Šmak",
-      "image": "../assets/images/smaug.jpg",
+      "image": "smaug.jpg",
       "questions": [
         {
           "question": "Kde Šmak žil?",
@@ -111,7 +111,7 @@
     {
       "id": 5,
       "title": "Rohan",
-      "image": "../assets/images/flag-of-the-kingdom-of-rohan.png",
+      "image": "flag-of-the-kingdom-of-rohan.png",
       "questions": [
         {
           "question": "Jak se jmenuje hlavní město Rohanu?",
@@ -138,7 +138,7 @@
     {
       "id": 6,
       "title": "Gondor",
-      "image": "../assets/images/map-gondor.jpg",
+      "image": "map-gondor.jpg",
       "questions": [
         {
           "question": "Jak se jmenuje hlavní město Gondoru?",
@@ -165,7 +165,7 @@
     {
       "id": 7,
       "title": "Lothlórien",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo vládne Lothlórienu?",
@@ -192,7 +192,7 @@
     {
       "id": 8,
       "title": "Moria",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo byl poslední král Morie?",
@@ -219,7 +219,7 @@
     {
       "id": 9,
       "title": "Elrond",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kde sídlí Elrond?",
@@ -246,7 +246,7 @@
     {
       "id": 10,
       "title": "Saruman",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jak se jmenuje věž ve, které sídlí Saruman?",
@@ -273,7 +273,7 @@
     {
       "id": 11,
       "title": "Společenstvo prstenu",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kolik má Společenstvo členů?",
@@ -300,7 +300,7 @@
     {
       "id": 12,
       "title": "Bilbo Pytlík",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kde žil Bilbo po tom co utekl z Kraje?",
@@ -327,7 +327,7 @@
     {
       "id": 13,
       "title": "Frodo Pytlík",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo je Frodův strýc?",
@@ -354,7 +354,7 @@
     {
       "id": 14,
       "title": "Bitva pěti armád",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kde se bitva odehrála?",
@@ -381,7 +381,7 @@
     {
       "id": 15,
       "title": "Aragorn",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "K jakému rodu lidí patří?",
@@ -408,7 +408,7 @@
     {
       "id": 16,
       "title": "Legolas",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Z jakého elfského království pochází?",
@@ -435,7 +435,7 @@
     {
       "id": 17,
       "title": "Gimli",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Z jakého trpasličího rodu pochází?",
@@ -462,7 +462,7 @@
     {
       "id": 18,
       "title": "Boromir",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo byl Boromirův otec?",
@@ -489,7 +489,7 @@
     {
       "id": 19,
       "title": "Samvěd Křepelka (Sam)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jaké povolání měl před cestou?",
@@ -516,7 +516,7 @@
     {
       "id": 20,
       "title": "Pippin",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Z jakého hobitího rodu Pippin pochází?",
@@ -543,7 +543,7 @@
     {
       "id": 21,
       "title": "Galadriel",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jak ji Gimli nazval ve filmu když kráčeli lesem?",
@@ -570,7 +570,7 @@
     {
       "id": 22,
       "title": "Smíšek",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo byl Smíškův nejbližší společník??",
@@ -597,7 +597,7 @@
     {
       "id": 23,
       "title": "Arwen",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo je Arwenin otec?",
@@ -624,7 +624,7 @@
     {
       "id": 24,
       "title": "Celeborn",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo byla Celebornova manželka?",
@@ -651,7 +651,7 @@
     {
       "id": 25,
       "title": "Théoden",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jaký titul měl?",
@@ -678,7 +678,7 @@
     {
       "id": 26,
       "title": "Éovyn",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jaký vztach měla Éowyn k Théodenovi?",
@@ -705,7 +705,7 @@
     {
       "id": 27,
       "title": "Éomer",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo byla jeho sestra?",
@@ -732,7 +732,7 @@
     {
       "id": 28,
       "title": "Denethor",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jakou roli měl v Gondoru?",
@@ -759,7 +759,7 @@
     {
       "id": 29,
       "title": "Faramir",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jakou roli měl v Gondoru?",
@@ -786,7 +786,7 @@
     {
       "id": 30,
       "title": "Númenor",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Co spůsobilo pád Númenoru?",
@@ -813,7 +813,7 @@
     {
       "id": 31,
       "title": "Tom Bombadil",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jaký byl Tomův vztah k mocným bytostem Středozemě (Valar, Maiar)?",
@@ -840,7 +840,7 @@
     {
       "id": 32,
       "title": "Zlatinka",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo byla Zlatěnka",
@@ -867,7 +867,7 @@
     {
       "id": 33,
       "title": "Glorfindel",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "K jakému rodu elfů patří?",
@@ -894,7 +894,7 @@
     {
       "id": 34,
       "title": "Radagast",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo to býl?",
@@ -921,7 +921,7 @@
     {
       "id": 35,
       "title": "Balrogové",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo to byli Balrogové původně?",
@@ -948,7 +948,7 @@
     {
       "id": 36,
       "title": "Sauron",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo byl Sauron původně?",
@@ -975,7 +975,7 @@
     {
       "id": 37,
       "title": "Morgoth",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo to byl Morgot původně?",
@@ -1002,7 +1002,7 @@
     {
       "id": 38,
       "title": "Silmarily",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo vytvořil Silmarily?",
@@ -1029,7 +1029,7 @@
     {
       "id": 39,
       "title": "Příběh o Berenovi a Lúthien",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo byl Beren a Lúthien?",
@@ -1052,7 +1052,7 @@
     {
       "id": 40,
       "title": "Túrin Turambar",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo byl Túrin Turambar?",
@@ -1079,7 +1079,7 @@
     {
       "id": 41,
       "title": "Finrod",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo to byl Finrod?",
@@ -1106,7 +1106,7 @@
     {
       "id": 42,
       "title": "Národy elfů (Vanyar, Nordor, Teleri)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo bylo Vanyar?",
@@ -1133,7 +1133,7 @@
     {
       "id": 43,
       "title": "Enti",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo to jsou Enti",
@@ -1160,7 +1160,7 @@
     {
       "id": 44,
       "title": "Nargothrond",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo založil Nargothrond?",
@@ -1187,7 +1187,7 @@
     {
       "id": 45,
       "title": "Skurut-hai",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo je vytvořil?",
@@ -1214,7 +1214,7 @@
     {
       "id": 46,
       "title": "Skřeti",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jak první skřeti vznikli?",
@@ -1241,7 +1241,7 @@
     {
       "id": 47,
       "title": "Cesta přez Caradhras",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Co je Caradhras?",
@@ -1264,7 +1264,7 @@
     {
       "id": 48,
       "title": "Nazgûlové (Prstenové přízraky)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo to byli Nazgûlové",
@@ -1291,7 +1291,7 @@
     {
       "id": 49,
       "title": "Doriath",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kdo tam vládl?",
@@ -1318,7 +1318,7 @@
     {
       "id": 50,
       "title": "Cesta trpaslíků do Erebornu",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Kolik bylo členů výpravy?",
@@ -1345,7 +1345,7 @@
     {
       "id": 51,
       "title": "Minas Morgul",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jaký byl původní název Minas Morgul?",
@@ -1372,7 +1372,7 @@
     {
       "id": 52,
       "title": "Barad-dûr",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "Jaký symbol byl spojen s Barad-dûr",
@@ -1399,7 +1399,7 @@
     {
       "id": 53,
       "title": "Hora Osudu (Orodruin)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1426,7 +1426,7 @@
     {
       "id": 54,
       "title": "Mordor",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1453,7 +1453,7 @@
     {
       "id": 55,
       "title": "Morannon (Černá brána)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1480,7 +1480,7 @@
     {
       "id": 56,
       "title": "Ithilien",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1507,7 +1507,7 @@
     {
       "id": 57,
       "title": "Osgiliath",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1534,7 +1534,7 @@
     {
       "id": 58,
       "title": "Edoras",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1561,7 +1561,7 @@
     {
       "id": 59,
       "title": "Helmův žleb",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1588,7 +1588,7 @@
     {
       "id": 60,
       "title": "Pelennorská pole",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1615,7 +1615,7 @@
     {
       "id": 61,
       "title": "Bitva u Morrannonu (Černé brány)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1642,7 +1642,7 @@
     {
       "id": 62,
       "title": "Bitva o Helmův žleb",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1669,7 +1669,7 @@
     {
       "id": 63,
       "title": "Bitva o Osgiliath",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1696,7 +1696,7 @@
     {
       "id": 64,
       "title": "Bitva o Pelennor",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1723,7 +1723,7 @@
     {
       "id": 65,
       "title": "Thingol",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1750,7 +1750,7 @@
     {
       "id": 66,
       "title": "Mlžné hory",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1777,7 +1777,7 @@
     {
       "id": 67,
       "title": "Ereborn (Osamělá hora)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1804,7 +1804,7 @@
     {
       "id": 68,
       "title": "Jezerní město (Esgaroth)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1831,7 +1831,7 @@
     {
       "id": 69,
       "title": "Thranduil",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1858,7 +1858,7 @@
     {
       "id": 70,
       "title": "Lesní říše (Mirkwood)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1885,7 +1885,7 @@
     {
       "id": 71,
       "title": "Gollum (Sméagol)",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1912,7 +1912,7 @@
     {
       "id": 72,
       "title": "Hůrka",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1939,7 +1939,7 @@
     {
       "id": 73,
       "title": "Hostinec U Skákajícího poníka",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1966,7 +1966,7 @@
     {
       "id": 74,
       "title": "Roklinka",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -1993,7 +1993,7 @@
     {
       "id": 75,
       "title": "Bažiny mrtvých",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2020,7 +2020,7 @@
     {
       "id": 76,
       "title": "Kraj",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2047,7 +2047,7 @@
     {
       "id": 77,
       "title": "Caradhras",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2074,7 +2074,7 @@
     {
       "id": 78,
       "title": "Řeka Anduin",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2101,7 +2101,7 @@
     {
       "id": 79,
       "title": "Jezerní lidé",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2128,7 +2128,7 @@
     {
       "id": 80,
       "title": "Dáin železná noha",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2155,7 +2155,7 @@
     {
       "id": 81,
       "title": "Thorin Pavéza",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2182,7 +2182,7 @@
     {
       "id": 82,
       "title": "Fili a Kili",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2209,7 +2209,7 @@
     {
       "id": 83,
       "title": "Balin",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2236,7 +2236,7 @@
     {
       "id": 84,
       "title": "Dwalin",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2263,7 +2263,7 @@
     {
       "id": 85,
       "title": "Oin a Gloin",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
@@ -2290,7 +2290,7 @@
     {
       "id": 86,
       "title": "Bifur, Bofur, Bombur",
-      "image": "../assets/images",
+      "image": "",
       "questions": [
         {
           "question": "",
