@@ -1,6 +1,10 @@
 # Used Themes (title) in quiz
 
-## Number of themes is 86
+## Česká témata užita v kvízu
+
+celkem: 85
+
+### Témata
 
 1.  Gandalf
 2.  Prsten moci
@@ -36,14 +40,14 @@
 30. Númenor
 
 31. Tom Bombadil
-32. Zlatinka (Goldberry)
+32. Zlatinka
 33. Glorfindel
 34. Radagast
 35. Balrog z Durinovy propasti
 36. Sauron
 37. Morgoth
 38. Silmarily
-39. Příběh o Berenovi a Lúthien (only four questions)
+39. Příběh o Berenovi a Lúthien (pouze čtyři otázky)
 40. Túrin Turambar
 
 41. Finrod
@@ -52,15 +56,15 @@
 44. Nargothrond
 45. Skurut-hai
 46. Skřeti
-47. Cesta přez Caradhras (only four questions)
+47. Cesta přes Caradhras (pouze čtyři otázky)
 48. Nazgûlové (Prstenové přízraky)
 49. Doriath
 50. Cesta trpaslíků do Ereboru
 
 51. Minas Morgul
 52. Barad-dûr
-53. Hora Osudu (Orodruin)
-54. Mordor
+53. Hora Osudu (Orodruin) (pouze čtyři otázky)
+54. Mordor (pouze čtyři otázky)
 55. Morannon (Černá brána)
 56. Ithilien
 57. Osgiliath
@@ -68,10 +72,10 @@
 59. Helmův žleb
 60. Pelennorská pole
 
-61. Bitva u Morrannonu (Černé brány)
+61. Bitva u Morannonu (Černé brány)
 62. Bitva o Helmův žleb
 63. Bitva o Osgiliath
-64. Bitva o Pelennor
+64. Glum (Sméagol)
 65. Thingol
 66. Mlžné hory
 67. Erebor (Osamělá hora)
@@ -79,20 +83,19 @@
 69. Thranduil
 70. Lesní říše (Mirkwood)
 
-71. Gollum (Sméagol)
-72. Hůrka
-73. Hostinec „U Skákajícího poníka“
-74. Roklinka
-75. Bažiny mrtvých
-76. Kraj
-77. Caradhras
-78. Řeka Anduin
-79. Jezerní lidé
-80. Dáin Železná noha
+71. Hůrka
+72. Hostinec U Skákajícího poníka
+73. Roklinka
+74. Bažiny mrtvých
+75. Kraj
+76. Caradhras
+77. Řeka Anduina
+78. Jezerní lidé
+79. Dáin Železná noha
 
-81. Thorin Pavéza
-82. Fili a Kili
-83. Balin
-84. Dwalin
-85. Oin a Gloin
-86. Bifur, Bofur, Bombur
+80. Thorin Pavéza
+81. Fili a Kili
+82. Balin
+83. Dwalin
+84. Oin a Glóin
+85. Bifur, Bofur, Bombur

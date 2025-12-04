@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Gandalf",
-      "image": "gandaf-grey.png",
+      "image": "gandalf-grey.png",
       "questions": [
         {
           "question": "Jaké je Gandalfovo původní jméno mezi Maiar?",
@@ -23,7 +23,7 @@
         },
         {
           "question": "Kdo se stal Gandalfovým koněm?",
-          "answer": "Shadowfax"
+          "answer": "Stínovlas"
         }
       ]
     },
@@ -42,7 +42,7 @@
         },
         {
           "question": "Kdo prsten našel po Isildurově smrti?",
-          "answer": "Déagol"
+          "answer": "Glum"
         },
         {
           "question": "Jaký nápis se objeví na prstenu v ohni?",
@@ -266,7 +266,7 @@
         },
         {
           "question": "Kdo zabil Sarumana?",
-          "answer": "Grima Červivec"
+          "answer": "Gríma Červivec"
         }
       ]
     },
@@ -339,7 +339,7 @@
         },
         {
           "question": "Kdo ho zradí u Cirith Ungol?",
-          "answer": "Gollum"
+          "answer": "Glum"
         },
         {
           "question": "Má celou cestu prsten u sebe?",
@@ -362,7 +362,7 @@
         },
         {
           "question": "Kdo vedl trpaslíky ze železných hor?",
-          "answer": "Dain Železná noha"
+          "answer": "Dáin Železná noha"
         },
         {
           "question": "Kdo vedl elfy?",
@@ -396,7 +396,7 @@
           "answer": "Arwen"
         },
         {
-          "question": "Jméno královtví které obnovil a poté mu i vládl?",
+          "question": "Jméno království které obnovil a poté mu i vládl?",
           "answer": "Gondor"
         },
         {
@@ -411,7 +411,7 @@
       "image": "",
       "questions": [
         {
-          "question": "Z jakého elfského království pochází?",
+          "question": "Z jakého elfího království pochází?",
           "answer": "Lesní říše (Mirkwood)"
         },
         {
@@ -446,7 +446,7 @@
           "answer": "Glóin"
         },
         {
-          "question": "Jakou zbraň Gimli nejčasťeji používal?",
+          "question": "Jakou zbraň Gimli nejčastěji používal?",
           "answer": "Sekera"
         },
         {
@@ -466,14 +466,14 @@
       "questions": [
         {
           "question": "Kdo byl Boromirův otec?",
-          "answer": "Denetor"
+          "answer": "Denethor"
         },
         {
           "question": "Jaký titul měl v Gondoru?",
           "answer": "Kapitán Bílé věže?"
         },
         {
-          "question": "Jak boromor zemřel?",
+          "question": "Jak boromir zemřel?",
           "answer": "Padl v bitvě proti skurut-hai při obraně hobitů"
         },
         {
@@ -508,7 +508,7 @@
           "answer": "K obraně proti Odule"
         },
         {
-          "question": "Jak Sam pomohl Frodoovi při cestě do Mordoru, když už Frodo nemohl dál?",
+          "question": "Jak Sam pomohl Frodovi při cestě do Mordoru, když už Frodo nemohl dál?",
           "answer": "Nesl Froda na svých zádech"
         }
       ]
@@ -535,8 +535,8 @@
           "answer": "Zasadil rozhodující ránu obrovi trollovi"
         },
         {
-          "question": "Co omilem udělal v Morii a proměnilo se to v hroznou věc?",
-          "answer": "Schodil kostru do studny a přivolal tím skurut-hai"
+          "question": "Co omylem udělal v Morii a proměnilo se to v hroznou věc?",
+          "answer": "Shodil kostru do studny a přivolal tím skurut-hai"
         }
       ]
     },
@@ -604,7 +604,7 @@
           "answer": "Elrond"
         },
         {
-          "question": "Jaké měla elfské jméno?",
+          "question": "Jaké bylo její elfské jméno?",
           "answer": "Undómiel (Dcera soumraku)"
         },
         {
@@ -677,7 +677,7 @@
     },
     {
       "id": 26,
-      "title": "Éovyn",
+      "title": "Éowyn",
       "image": "",
       "questions": [
         {
@@ -797,11 +797,11 @@
           "answer": "Byli jim vděční a uctívali je"
         },
         {
-          "question": "V čem byli Númerojci dobří?",
+          "question": "V čem byli Númenorejci dobří?",
           "answer": "Byli výborní námořníci a stavitelé lodí"
         },
         {
-          "question": "Jaký byl Denethorský rod v Gondoru ve vztahu k Númenoru?",
+          "question": "Jaký byl rod Denethorův v Gondoru ve vztahu k Númenoru?",
           "answer": "Pocházel z linie správců, kteří byli potomky Númenorejců"
         },
         {
@@ -901,7 +901,7 @@
           "answer": "Jeden z pěti Istari (čarodějů) poslaných do středozemě"
         },
         {
-          "question": "Jáký byl titul mezi čaroději?",
+          "question": "Jaký byl titul mezi čaroději?",
           "answer": "Radagast Hnědý"
         },
         {
@@ -978,8 +978,8 @@
       "image": "",
       "questions": [
         {
-          "question": "Kdo to byl Morgot původně?",
-          "answer": "Jeden z Valar, dříve Melkor. Ale stal se skaženým protože toužil po moci"
+          "question": "Kdo to byl Morgoth původně?",
+          "answer": "Jeden z Valar, dříve Melkor. Ale stal se zkaženým protože toužil po moci"
         },
         {
           "question": "Co znamená jeho jméno?",
@@ -994,7 +994,7 @@
           "answer": "Zkazil samotnou podstatu světa, jeho zlo proniklo do hmoty Ardy"
         },
         {
-          "question": "Co se s Morgotem stalo po Válce hněvu?",
+          "question": "Co se s Morgothem stalo po Válce hněvu?",
           "answer": "Byl poražen a vyhnán z Ardy"
         }
       ]
@@ -1018,7 +1018,7 @@
         },
         {
           "question": "Co se stalo se Silmarily?",
-          "answer": "První byl vyzvednut jako hvězda na nebe. Druhý skončil v hlubánách země a třetí byl vržen do moře."
+          "answer": "První byl vyzvednut jako hvězda na nebe. Druhý skončil v hlubinách země a třetí byl vržen do moře."
         },
         {
           "question": "Jaký byl vztah Silmarilů k přísaze Fëanorových synů?",
@@ -1033,11 +1033,11 @@
       "questions": [
         {
           "question": "Kdo byl Beren a Lúthien?",
-          "answer": "Beren byl smrtelný muž. Lůthien byla Elfka, dcera krále Thingola"
+          "answer": "Beren byl smrtelný muž. Lúthien byla Elfka, dcera krále Thingola"
         },
         {
           "question": "Jaký úkol zadal Berenovy Thingol, aby si mohl vzít lúthien?",
-          "answer": "Přinést Silmarl z Morgotovy koruny."
+          "answer": "Přinést Silmaril z Morgothovy koruny."
         },
         {
           "question": "Kde Beren a Lúthien nakonec žili?",
@@ -1105,7 +1105,7 @@
     },
     {
       "id": 42,
-      "title": "Národy elfů (Vanyar, Nordor, Teleri)",
+      "title": "Národy elfů (Vanyar, Noldor, Teleri)",
       "image": "",
       "questions": [
         {
@@ -1121,7 +1121,7 @@
           "answer": "Třetí elfský národ, nejpočetnější, milovali moře a hudbu. Byli dobří stavitelé lodí"
         },
         {
-          "question": "Králové (1.)Vanyarů, (2.)Noldorů, (3.)Teleriů)?",
+          "question": "Králové (1.)Vanyarů, (2.)Noldorů, (3.)Teleriů?",
           "answer": "(1.) Ingwë (nejvyšší král všech elfů), (2.) Finwë, (3.) Elwë (Thingol) a jeho bratr Olwë"
         },
         {
@@ -1137,7 +1137,7 @@
       "questions": [
         {
           "question": "Kdo to jsou Enti",
-          "answer": "Prastarý národ bytostí, známí jako Pastíři stromů"
+          "answer": "Prastarý národ bytostí, známí jako Pastýři stromů"
         },
         {
           "question": "Jaký je úkol Entů?",
@@ -1167,11 +1167,11 @@
           "answer": "Finrod Felagund"
         },
         {
-          "question": "Kde se nacházek?",
+          "question": "Kde se nacházel?",
           "answer": "V jeskyních u řeky Narog v Beleriadu."
         },
         {
-          "question": "Jakou roli sehrál Nargothrond v boji proti Motgothovi?",
+          "question": "Jakou roli sehrál Nargothrond v boji proti Morgothovi?",
           "answer": "Byl jedním z hlavních center odporu."
         },
         {
@@ -1218,7 +1218,7 @@
       "questions": [
         {
           "question": "Jak první skřeti vznikli?",
-          "answer": "Morgot zkazil zajaté elfy a pak je znetvořil"
+          "answer": "Morgoth zkazil zajaté elfy a pak je znetvořil"
         },
         {
           "question": "Jaký býl hlavní účel skřetů?",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": 47,
-      "title": "Cesta přez Caradhras",
+      "title": "Cesta přes Caradhras",
       "image": "",
       "questions": [
         {
@@ -1272,7 +1272,7 @@
         },
         {
           "question": "Kdo byl jejich vůdce?",
-          "answer": "Černokněžný král z Angmaru"
+          "answer": "Černokněžný  král z Angmaru"
         },
         {
           "question": "Jaký byl jejich hlavní úkol?",
@@ -1284,7 +1284,7 @@
         },
         {
           "question": "Jaký byl jejich osud po zničení Prstenu?",
-          "answer": "Byly navždy zničeni. rozptíleni v nicotu"
+          "answer": "Byly navždy zničeni. A rozptyleni v nicotu"
         }
       ]
     },
@@ -1303,7 +1303,7 @@
         },
         {
           "question": "Jaký význam pro Doriath má Beren a Lúthien?",
-          "answer": "Thingol dal Berenovi úkol, aby přinesl Silmarill, aby si mohl vzít Lúthien. (uspěl)"
+          "answer": "Thingol dal Berenovi úkol, aby přinesl Silmaril, aby si mohl vzít Lúthien. (uspěl)"
         },
         {
           "question": "Co se stalo s Thingolem?",
@@ -1311,13 +1311,13 @@
         },
         {
           "question": "Jaký byl osud Doriathu po Thingolově smrti?",
-          "answer": "Doriath se rozpatl a jelikož Melian po jeho smrti odešla do Valinoru tak se zrušila i Melianina zeď."
+          "answer": "Doriath se rozpadl a jelikož Melian po jeho smrti odešla do Valinoru tak se zrušila i Melianina zeď."
         }
       ]
     },
     {
       "id": 50,
-      "title": "Cesta trpaslíků do Erebornu",
+      "title": "Cesta trpaslíků do Ereboru",
       "image": "",
       "questions": [
         {
@@ -1338,7 +1338,7 @@
         },
         {
           "question": "Jaký byl konečný výsledek cesty?",
-          "answer": "Výprava dorazila k Erebornu, Šmak byl zabit a strhla se bitva pěti armád."
+          "answer": "Výprava dorazila k Ereboru, Šmak byl zabit a strhla se bitva pěti armád."
         }
       ]
     },
@@ -1380,7 +1380,7 @@
         },
         {
           "question": "Jaká hora byla poblíže?",
-          "answer": "Hora Orodruid (Mount Doom)"
+          "answer": "Hora Orodruin (Mount Doom)"
         },
         {
           "question": "Jaký význam má název?",
@@ -1402,24 +1402,20 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký má význam název Orodruin?",
+          "answer": "Ohnivá hora"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaká byla krajina okolo hory?",
+          "answer": "Spálené pláně, lávové proudy a pustá zem"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo zde ukoval Vládnoucí prsten?",
+          "answer": "Sauron"
         },
         {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
+          "question": "Kdo zde měl zničit prsten v hoře a kdo ho opravdu zničil?",
+          "answer": "Isildur (odmítl), Frodo (nedokázal to a odmítl), Glum (zničil a zahynul při tom."
         }
       ]
     },
@@ -1429,24 +1425,20 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký význam má název Mordor?",
+          "answer": "Černá země"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Co bylo centrem Mordoru?",
+          "answer": "věž Barad-dûr a hora Osudu"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaká byla hlavní brána do Mordoru?",
+          "answer": "Morannon (Černá brána)"
         },
         {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl osud Mordoru po tom co Hora Osudu vybouchla?",
+          "answer": "Země se zhroutila a temnota se rozptýlila."
         }
       ]
     },
@@ -1614,7 +1606,7 @@
     },
     {
       "id": 61,
-      "title": "Bitva u Morrannonu (Černé brány)",
+      "title": "Bitva u Morannonu (Černé brány)",
       "image": "",
       "questions": [
         {
@@ -1695,7 +1687,7 @@
     },
     {
       "id": 64,
-      "title": "Bitva o Pelennor",
+      "title": "Glum (Sméagol)",
       "image": "",
       "questions": [
         {
@@ -1776,7 +1768,7 @@
     },
     {
       "id": 67,
-      "title": "Ereborn (Osamělá hora)",
+      "title": "Erebor (Osamělá hora)",
       "image": "",
       "questions": [
         {
@@ -1884,7 +1876,7 @@
     },
     {
       "id": 71,
-      "title": "Gollum (Sméagol)",
+      "title": "Glum (Sméagol)",
       "image": "",
       "questions": [
         {
@@ -2262,7 +2254,7 @@
     },
     {
       "id": 85,
-      "title": "Oin a Gloin",
+      "title": "Oin a Glóin",
       "image": "",
       "questions": [
         {

@@ -30,23 +30,22 @@ async function loadData() {
     // Default images
     const defaultImages = [
       "../assets/images/ChC-aragorn-and-arwen.jpg",
-      "../assets/images/ChC-bilbo-baggins.jpg",
-      "../assets/images/ChC-Eye-of-Sauron.jpg",
+      "../assets/images/ChC-eye-of-Sauron.jpg",
       "../assets/images/ChC-frodo-and-sams-journey.jpg",
       "../assets/images/ChC-frodo-at-rivendell.jpg",
-      "../assets/images/ChC-gandal-and-bilbo-having-tea.jpg",
-      "../assets/images/ChC-gandald-and-baalrog.jpg",
+      "../assets/images/ChC-gandalf-and-bilbo-having-tea.jpg",
+      "../assets/images/ChC-gandalf-and-balrog.jpg",
       "../assets/images/ChC-gandalf-pippin-and-shadowfax.jpg",
       "../assets/images/ChC-i-can-carry-you.jpg",
       "../assets/images/ChC-leaving-lothlorien.jpg",
       "../assets/images/ChC-minas-tirith-under-siege.jpg",
-      "../assets/images/ChC-Sauron-the-deceiver.jpg",
+      "../assets/images/ChC-sauron-the-deceiver.jpg",
     ];
 
     function getImagePath(chosenTopic) {
       // Nastavení obrázku bude kontrolovat pokud obrázek existuje pokud ne tak užije náhodný
       if (chosenTopic.image) {
-        // Pokud v JSONu je cestapoužij toto
+        // Pokud v JSONu je cesta použij toto
         return `../assets/images/${chosenTopic.image}`;
       } else {
         // pokud v JSONu cesta není užij náhodný default obrázek

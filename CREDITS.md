@@ -21,7 +21,7 @@ The following files are used with explicit permission from the original author:
 
 ## Creative Commons BY-SA 3.0
 
-- assets/images/gandal-grey.png  
+- assets/images/gandalf-grey.png  
   Author: Nidoart  
   Source: https://upload.wikimedia.org/wikipedia/commons/f/f9/GANDALF.svg
 
