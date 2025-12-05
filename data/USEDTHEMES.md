@@ -1,6 +1,6 @@
 # Used Themes (title) in quiz
 
-## Česká témata užita v kvízu
+## Česká témata
 
 celkem: 85
 
@@ -40,7 +40,7 @@ celkem: 85
 30. Númenor
 
 31. Tom Bombadil
-32. Zlatinka
+32. Zlatěnka
 33. Glorfindel
 34. Radagast
 35. Balrog z Durinovy propasti
@@ -65,14 +65,14 @@ celkem: 85
 52. Barad-dûr
 53. Hora Osudu (Orodruin) (pouze čtyři otázky)
 54. Mordor (pouze čtyři otázky)
-55. Morannon (Černá brána)
+55. Morannon
 56. Ithilien
 57. Osgiliath
 58. Edoras
 59. Helmův žleb
 60. Pelennorská pole
 
-61. Bitva u Morannonu (Černé brány)
+61. Bitva u Morannonu
 62. Bitva o Helmův žleb
 63. Bitva o Osgiliath
 64. Glum (Sméagol)

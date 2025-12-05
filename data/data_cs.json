@@ -234,7 +234,7 @@
           "answer": "Elros"
         },
         {
-          "question": "Kam se vydal po zkončení věku elfů?",
+          "question": "Kam se vydal po skončení věku elfů?",
           "answer": "Do Valinoru"
         },
         {
@@ -285,14 +285,14 @@
         },
         {
           "question": "Kdo byl jediný trpaslík & elf ve Společenstvu?",
-          "answer": "Gimli syn Glóina a Legolas Thranduilion"
+          "answer": "Gimli a Legolas "
         },
         {
           "question": "Co mělo společenstvo úkolem?",
           "answer": "zničit prsten moci"
         },
         {
-          "question": "Kde se poprvé Společestvo rozdělilo? A kdo se oddělil?",
+          "question": "Kde se poprvé Společenstvo rozdělilo? A kdo se oddělil?",
           "answer": "Na břehu řeky Anduiny. Oddělil se Frodo Pytlík a Sam Křepelka"
         }
       ]
@@ -423,7 +423,7 @@
           "answer": "Luk a šíp"
         },
         {
-          "question": "Jaký vztach si vyvynul k Gimlimu?",
+          "question": "Jaký vztah si vyvinul k Gimlimu?",
           "answer": "Přátelský"
         },
         {
@@ -454,7 +454,7 @@
           "answer": "Pramínek jejích vlasů"
         },
         {
-          "question": "Jaký vztach si vyvynul k Legolasovi?",
+          "question": "Jaký vztah si vyvinul k Legolasovi?",
           "answer": "Přátelský"
         }
       ]
@@ -643,7 +643,7 @@
           "answer": "Nedůvěřoval jim, zejména asi kvůli minulosti Morie."
         },
         {
-          "question": "Jaký vztach měl Celeborn k Arwen?",
+          "question": "Jaký vztah měl Celeborn k Arwen?",
           "answer": "Byl jejím dědem z matčiny strany."
         }
       ]
@@ -681,7 +681,7 @@
       "image": "",
       "questions": [
         {
-          "question": "Jaký vztach měla Éowyn k Théodenovi?",
+          "question": "Jaký vztah měla Éowyn k Théodenovi?",
           "answer": "Byla jeho neteř"
         },
         {
@@ -789,7 +789,7 @@
       "image": "",
       "questions": [
         {
-          "question": "Co spůsobilo pád Númenoru?",
+          "question": "Co způsobilo pád Númenoru?",
           "answer": "Pýcha Númenorejců a vzpoura proti Valarům."
         },
         {
@@ -839,7 +839,7 @@
     },
     {
       "id": 32,
-      "title": "Zlatinka",
+      "title": "Zlatěnka",
       "image": "",
       "questions": [
         {
@@ -898,7 +898,7 @@
       "questions": [
         {
           "question": "Kdo to býl?",
-          "answer": "Jeden z pěti Istari (čarodějů) poslaných do středozemě"
+          "answer": "Jeden z pěti Istari (čarodějů) poslaných do Středozemě"
         },
         {
           "question": "Jaký byl titul mezi čaroději?",
@@ -1153,7 +1153,7 @@
         },
         {
           "question": "Co Enti znázorňují v Tolkienově díle?",
-          "answer": "Znázorňují trpjelivost a sílu přírody"
+          "answer": "Znázorňují trpělivost a sílu přírody"
         }
       ]
     },
@@ -1230,7 +1230,7 @@
         },
         {
           "question": "Slavní vůdci skřetů",
-          "answer": "Azok Znesvětitel, Velký skřet"
+          "answer": "Azog Znesvětitel, Velký skřet"
         },
         {
           "question": "Jaký byl osud skřetů po zničení Prstenu?",
@@ -1253,7 +1253,7 @@
         },
         {
           "question": "Jaké bylo počasí?",
-          "answer": "Kruté, vánice, sních a vítr"
+          "answer": "Kruté, vánice, sníh a vítr"
         },
         {
           "question": "Jaký byl konečný důsledek cesty přes Caradhras?",
@@ -1444,28 +1444,28 @@
     },
     {
       "id": 55,
-      "title": "Morannon (Černá brána)",
+      "title": "Morannon",
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký význam má název Morannon?",
+          "answer": "Černá brána"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kde se Morannon nacházel",
+          "answer": "Severozápadní hranice Mordoru"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jakému účelu sloužil Morannon?",
+          "answer": "Hlavní brána do Mordoru"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký výjev se zde stal v filmu Návrat krále?",
+          "answer": "Bitva u Morannonu, kde Aragorn s vojskem čelí vojskům Mordoru"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký osud ji stihl po Válce o Prsten?",
+          "answer": "Byla zničena"
         }
       ]
     },
@@ -1475,24 +1475,24 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký význam má název Ithilien?",
+          "answer": "Země měsíčního"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký vztah měl Ithilien k Gondoru?",
+          "answer": "Byl jeho východní provincií"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký vliv měla blízkost Mordoru na Ithilien?",
+          "answer": "Časté vpády skřetů"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo vedl gondorské může za dob války o Prsten?",
+          "answer": "Faramir"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl osud Ithilienu po válce o Prsten?",
+          "answer": "Zem se obnovila, Faramir se stal knížetem Ithilienu"
         }
       ]
     },
@@ -1502,24 +1502,24 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl původní účel Osgiliathu?",
+          "answer": "Hlavní město Gondoru"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Na jaké řece Osgiliath ležel?",
+          "answer": "Na řece Anduině"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký typ mostu město spojoval?",
+          "answer": "Velký kamenný most přes řeku Anduinu"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký vliv měla blízkost Mordoru na Osgiliath?",
+          "answer": "Časté vpády skřetů"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký artefakt se kdysi nacházel v Osgiliathu?",
+          "answer": "Palantír"
         }
       ]
     },
@@ -1529,24 +1529,24 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jako co slouží Edoras?",
+          "answer": "Hlavní město Rohanu"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo vládl v Edorasu za války o Prsten?",
+          "answer": "Théoden"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kde se Edoras nachází?",
+          "answer": "V bílých horách severně od hory Roháč"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Co dominovalo Edorasu?",
+          "answer": "Zlatá síň Meduseld"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Co se stalo s Edorasem po válce o Prsten?",
+          "answer": "Zůstal hlavním městem Rohanu a vládl zde Éomer"
         }
       ]
     },
@@ -1556,24 +1556,24 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kde se Helmův žleb nachází?",
+          "answer": "V Rohanu, v Bílých horách"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Co se nachází v Helmově žlebu za stavbu?",
+          "answer": "Pevnost"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký účel má Helmův žleb?",
+          "answer": "Útočiště a obranná pevnost Rohanu"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký typ krajiny obklopuje Helmův žleb?",
+          "answer": "Úzké údolí v horách"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Čí armada zaútočila na Helmův žleb ve válce o Prsten?",
+          "answer": "Sarumanova armáda"
         }
       ]
     },
@@ -1583,30 +1583,30 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kde se Pelennorská pole nacházejí?",
+          "answer": "Před hradbami Minas Tirith v Gondoru"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký typ krajiny tu je?",
+          "answer": "Planiny"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Co se zde stalo?",
+          "answer": "Bitva na Pelennorských polích"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaká půda zde byla a kdo zde žil?",
+          "answer": "Byla zde úrodná půda. A žilo tu spoustu zemědělců"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký vliv měli pole na Minas Tirith?",
+          "answer": "Byla přirozenou obranou plání. Šlo nepřítele spatřit na kilometry"
         }
       ]
     },
     {
       "id": 61,
-      "title": "Bitva u Morannonu (Černé brány)",
+      "title": "Bitva u Morannonu",
       "image": "",
       "questions": [
         {
@@ -2065,7 +2065,7 @@
     },
     {
       "id": 78,
-      "title": "Řeka Anduin",
+      "title": "Řeka Anduina",
       "image": "",
       "questions": [
         {
