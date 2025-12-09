@@ -1,4 +1,4 @@
-// Loading data from .json  file
+// TODO: Přepsat funkci do menších úseků které se pak budou lépe využívat
 async function loadData() {
   try {
     const res = await fetch("../data/data_cs.json");

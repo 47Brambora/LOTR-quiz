@@ -57,7 +57,7 @@ celkem: 85
 45. Skurut-hai
 46. Skřeti
 47. Cesta přes Caradhras (pouze čtyři otázky)
-48. Nazgûlové (Prstenové přízraky)
+48. Nazgûlové
 49. Doriath
 50. Cesta trpaslíků do Ereboru
 
@@ -75,7 +75,7 @@ celkem: 85
 61. Bitva u Morannonu
 62. Bitva o Helmův žleb
 63. Bitva o Osgiliath
-64. Glum (Sméagol)
+64. Glum
 65. Thingol
 66. Mlžné hory
 67. Erebor (Osamělá hora)

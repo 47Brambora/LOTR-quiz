@@ -508,7 +508,7 @@
           "answer": "K obraně proti Odule"
         },
         {
-          "question": "Jak Sam pomohl Frodovi při cestě do Mordoru, když už Frodo nemohl dál?",
+          "question": "Jak pomohl Frodovi při cestě do Mordoru, když už Frodo nemohl dál?",
           "answer": "Nesl Froda na svých zádech"
         }
       ]
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 48,
-      "title": "Nazgûlové (Prstenové přízraky)",
+      "title": "Nazgûlové",
       "image": "",
       "questions": [
         {
@@ -1610,24 +1610,24 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo vedl vojska Západu v bitvě?",
+          "answer": "Aragorn"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl cíl vojska v Bitvě?",
+          "answer": "Odlákat Sauronovu pozornost od Froda a Sama"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo pomohl v bitvě proti Nazgûlům?",
+          "answer": "Orli"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký čaroděj byl přítomen v bitvě?",
+          "answer": "Gandalf Bílý"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký typ vojska tvořil hlavní sílu Mordoru?",
+          "answer": "Skřeti"
         }
       ]
     },
@@ -1637,24 +1637,24 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo vedl obránce Helmova žlebu?",
+          "answer": "Aragorn a Théoden"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo kromě lidí a Haldirových elfů bránil pevnost?",
+          "answer": "Gimli a Legolas "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo pomohl k výhře při obraně?",
+          "answer": "Gandalf Bílý s Rohiry"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo tvořil hlavní sílu útočníků?",
+          "answer": "Skurut-hai ze Sarumanovy armády"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kolik dní trvala bitva?",
+          "answer": "Tři dny"
         }
       ]
     },
@@ -1664,51 +1664,51 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo vedl obranu města?",
+          "answer": "Faramir"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký typ krajiny obklopuje Osgiliath?",
+          "answer": "Řeka Anduina a planiny okolo"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl osud Gondorských obránců?",
+          "answer": "Museli ustoupit k Minas Tirith"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo útočil na Osgiliath?",
+          "answer": "Nazgûlové v čele král Angmaru, skřeti"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo zachránil prchající vojsko před pronásledovateli?",
+          "answer": "Gandalf Bílý"
         }
       ]
     },
     {
       "id": 64,
-      "title": "Glum (Sméagol)",
+      "title": "Glum",
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaké bylo původní Glumovo jméno?",
+          "answer": "Sméagol"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jak Glum oslovoval Prsten?",
+          "answer": "Můj milášek"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jakou povahu měl Glum?",
+          "answer": "Rozpolcenou - bojoval sám se sebou jako Sméagol a Glum"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jak dlouho vlastnil Prsten?",
+          "answer": "Zhruba 500 let"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl jeho osud?",
+          "answer": "Spadl i s Prstenem do hory Osudu"
         }
       ]
     },
