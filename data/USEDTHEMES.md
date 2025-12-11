@@ -78,10 +78,10 @@ celkem: 85
 64. Glum
 65. Thingol
 66. Mlžné hory
-67. Erebor (Osamělá hora)
+67. Erebor
 68. Jezerní město (Esgaroth)
-69. Thranduil
-70. Lesní říše (Mirkwood)
+69. Lesní říše 
+70. Thranduil
 
 71. Hůrka
 72. Hostinec U Skákajícího poníka

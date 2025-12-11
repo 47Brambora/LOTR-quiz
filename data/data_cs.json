@@ -203,10 +203,6 @@
           "answer": "Balrog"
         },
         {
-          "question": "Jak se jmenuje trpasličí město v Morii?",
-          "answer": "Khazad-dûm"
-        },
-        {
           "question": "Jakou branou vstoupily do Morie? A jaké je heslo k ní?",
           "answer": "Západní branou, Přítel"
         },
@@ -1718,24 +1714,24 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaké bylo původní jméno Thingola",
+          "answer": "Elwë"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký národ vedl?",
+          "answer": "Sindar"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo byla Thingolova dcera?",
+          "answer": "Lúthien"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Po čem Thingol toužil?",
+          "answer": "Po Silmarilu, který nechal vložit do Nauglamíru(náhrdelník)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký byl osud Thingola?",
+          "answer": "Byl zabit trpaslíky"
         }
       ]
     },
@@ -1745,51 +1741,51 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo vytvořil mlžné hory?",
+          "answer": "Melkor"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký je nejvyšší vrcholek Mlžných hor?",
+          "answer": "Caradhras"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký slavný trpasličí komplex se nachází v Mlžných horách?",
+          "answer": "Khazad-dûm (Moria)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jací obyvatelé bydleli v Mlžných horách?",
+          "answer": "Balrog, skřeti, orli, Glum, kamenní obři"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jakou mají polohu?",
+          "answer": "Táhnou se ze severu na jih a z jihu na sever"
         }
       ]
     },
     {
       "id": 67,
-      "title": "Erebor (Osamělá hora)",
+      "title": "Erebor",
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo přepadl trpasličí město v hoře a usadil se zde?",
+          "answer": "Drak Šmak"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký titul nesli vládci Ereboru?",
+          "answer": "Králové pod horou"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo pomáhal trpasličí družině v Hobitovy?",
+          "answer": "Gandalf a Bilbo Pytlík"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo se stal Králem pod horou po Bitvě pěti armád?",
+          "answer": "Dáin Železná noha"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký nejcennější předmět se nacházel v Ereboru?",
+          "answer": "Arcikam (Srdce hory)"
         }
       ]
     },
@@ -1799,510 +1795,78 @@
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaké stavby tvořili především město?",
+          "answer": "Dřevěné domy, plouvocí na vodě"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kde se nachází?",
+          "answer": "Na Dlouhém jezeře, poblíž Ereboru"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo z města zabil Šmaka draka z hory a čím?",
+          "answer": "Bard Lučištník a zabil ho Černým šípem"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Bylo město spojeno se břehem jinak než lodní dopravou?",
+          "answer": "Ano, byl tu most"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kde čerpal starosta Esgarothu své bohatství? (Hobit)",
+          "answer": "Obchod s Lesní říší"
         }
       ]
     },
     {
       "id": 69,
-      "title": "Thranduil",
+      "title": "Lesní říše",
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Kde se Lesní říše nacházela?",
+          "answer": "V Temném hvozdu"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo byl králem Lesní říše",
+          "answer": "Králem byl Thranduil"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký typ stavby tvořil sídlo Lesní říše?",
+          "answer": "Palác vytesaný do skaly"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký typ prostředí obklopuje Lesní říši?",
+          "answer": "hustý les"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "jaký typ Hrozby ohrožoval Lesní říši?",
+          "answer": "Pavouci a temné bytosti z Dol Gulduru"
         }
       ]
     },
     {
       "id": 70,
-      "title": "Lesní říše (Mirkwood)",
+      "title": "Thranduil",
       "image": "",
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Jaký titul nesl?",
+          "answer": "Král lesní říše"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Kdo byl jeho syn?",
+          "answer": "Legolas"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Z jakého národa elfů pocházel?",
+          "answer": "Sindar"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Po čem touží a náchází se to v Ereboru?",
+          "answer": "Bílé drahokami z Lasgalenu"
         },
         {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 71,
-      "title": "Glum (Sméagol)",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "title": "Hůrka",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "title": "Hostinec U Skákajícího poníka",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "title": "Roklinka",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "title": "Bažiny mrtvých",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "title": "Kraj",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 77,
-      "title": "Caradhras",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 78,
-      "title": "Řeka Anduina",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 79,
-      "title": "Jezerní lidé",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 80,
-      "title": "Dáin železná noha",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 81,
-      "title": "Thorin Pavéza",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "title": "Fili a Kili",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 83,
-      "title": "Balin",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "title": "Dwalin",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 85,
-      "title": "Oin a Glóin",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        }
-      ]
-    },
-    {
-      "id": 86,
-      "title": "Bifur, Bofur, Bombur",
-      "image": "",
-      "questions": [
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
-        },
-        {
-          "question": "",
-          "answer": ""
+          "question": "Na jakém zvířeti jezdil?",
+          "answer": "Na velkém bílém jelenu"
         }
       ]
     }
