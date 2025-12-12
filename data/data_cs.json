@@ -1861,12 +1861,39 @@
           "answer": "Sindar"
         },
         {
-          "question": "Po čem touží a náchází se to v Ereboru?",
-          "answer": "Bílé drahokami z Lasgalenu"
+          "question": "Po čem touží a nachází se to v Ereboru?",
+          "answer": "Bílé drahokamy z Lasgalenu"
         },
         {
           "question": "Na jakém zvířeti jezdil?",
           "answer": "Na velkém bílém jelenu"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Hůrka",
+      "image": "",
+      "questions": [
+        {
+          "question": "Jaký typ obyvatel žil v Hůrce?",
+          "answer": "Lidé a hobiti"
+        },
+        {
+          "question": "Jaká typ budov tvořil Hůrku?",
+          "answer": "Kamenné domy lidí a hobití nory"
+        },
+        {
+          "question": "Jaký typ krajiny obklopuje Hůrku?",
+          "answer": "Kopce a louky"
+        },
+        {
+          "question": "Kdo se zde měl setkat z Gandalfem, ale nesetkal se?",
+          "answer": "Frodo Pytlík"
+        },
+        {
+          "question": "S kým naopak se zde setkal?",
+          "answer": "S Aragornem"
         }
       ]
     }
