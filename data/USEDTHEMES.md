@@ -2,7 +2,7 @@
 
 ## Česká témata
 
-celkem: 85
+celkem: 86
 
 ### Témata
 
@@ -80,13 +80,13 @@ celkem: 85
 66. Mlžné hory
 67. Erebor
 68. Jezerní město (Esgaroth)
-69. Lesní říše 
+69. Lesní říše
 70. Thranduil
 
 71. Hůrka
 72. Hostinec U Skákajícího poníka
 73. Roklinka
-74. Bažiny mrtvých
+74. Mrtvé močály (pouze čtyři otázky)
 75. Kraj
 76. Caradhras
 77. Řeka Anduina
@@ -99,3 +99,4 @@ celkem: 85
 83. Dwalin
 84. Oin a Glóin
 85. Bifur, Bofur, Bombur
+86. Stezky mrtvých

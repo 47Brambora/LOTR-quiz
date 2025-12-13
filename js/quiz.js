@@ -1,4 +1,4 @@
-// TODO: Přepsat funkci do menších úseků které se pak budou lépe využívat
+// TODO: Přepsat funkci do menších úseků které se pak budou lépe využívat pro další postup v projektu a dodělávání nových gamemodů
 async function loadData() {
   try {
     const res = await fetch("../data/data_cs.json");
@@ -8,17 +8,6 @@ async function loadData() {
     // get randomID based on the highest id in the .json file
     const randomID = Math.floor(Math.random() * data.topics.length) + 1;
     const chosenTopic = data.topics.find((t) => t.id === randomID);
-
-    // Error handling for chosenTopic & randomID
-    if (!chosenTopic) {
-      console.error(
-        "Nenalezené téma pro id",
-        randomID,
-        "-available ids:",
-        data.topics.map((t) => t.id)
-      );
-      return;
-    }
 
     // Save ID and topic globally
     window.currentTopicID = randomID;

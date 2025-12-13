@@ -165,7 +165,6 @@
     {
       "id": 7,
       "title": "Lothlórien",
-      "image": "",
       "questions": [
         {
           "question": "Kdo vládne Lothlórienu?",
@@ -192,7 +191,6 @@
     {
       "id": 8,
       "title": "Moria",
-      "image": "",
       "questions": [
         {
           "question": "Kdo byl poslední král Morie?",
@@ -215,7 +213,6 @@
     {
       "id": 9,
       "title": "Elrond",
-      "image": "",
       "questions": [
         {
           "question": "Kde sídlí Elrond?",
@@ -242,7 +239,6 @@
     {
       "id": 10,
       "title": "Saruman",
-      "image": "",
       "questions": [
         {
           "question": "Jak se jmenuje věž ve, které sídlí Saruman?",
@@ -269,7 +265,6 @@
     {
       "id": 11,
       "title": "Společenstvo prstenu",
-      "image": "",
       "questions": [
         {
           "question": "Kolik má Společenstvo členů?",
@@ -296,7 +291,6 @@
     {
       "id": 12,
       "title": "Bilbo Pytlík",
-      "image": "",
       "questions": [
         {
           "question": "Kde žil Bilbo po tom co utekl z Kraje?",
@@ -323,7 +317,6 @@
     {
       "id": 13,
       "title": "Frodo Pytlík",
-      "image": "",
       "questions": [
         {
           "question": "Kdo je Frodův strýc?",
@@ -350,7 +343,6 @@
     {
       "id": 14,
       "title": "Bitva pěti armád",
-      "image": "",
       "questions": [
         {
           "question": "Kde se bitva odehrála?",
@@ -377,7 +369,6 @@
     {
       "id": 15,
       "title": "Aragorn",
-      "image": "",
       "questions": [
         {
           "question": "K jakému rodu lidí patří?",
@@ -404,7 +395,6 @@
     {
       "id": 16,
       "title": "Legolas",
-      "image": "",
       "questions": [
         {
           "question": "Z jakého elfího království pochází?",
@@ -431,7 +421,6 @@
     {
       "id": 17,
       "title": "Gimli",
-      "image": "",
       "questions": [
         {
           "question": "Z jakého trpasličího rodu pochází?",
@@ -458,7 +447,6 @@
     {
       "id": 18,
       "title": "Boromir",
-      "image": "",
       "questions": [
         {
           "question": "Kdo byl Boromirův otec?",
@@ -485,7 +473,6 @@
     {
       "id": 19,
       "title": "Samvěd Křepelka (Sam)",
-      "image": "",
       "questions": [
         {
           "question": "Jaké povolání měl před cestou?",
@@ -512,7 +499,6 @@
     {
       "id": 20,
       "title": "Pippin",
-      "image": "",
       "questions": [
         {
           "question": "Z jakého hobitího rodu Pippin pochází?",
@@ -539,7 +525,6 @@
     {
       "id": 21,
       "title": "Galadriel",
-      "image": "",
       "questions": [
         {
           "question": "Jak ji Gimli nazval ve filmu když kráčeli lesem?",
@@ -566,7 +551,6 @@
     {
       "id": 22,
       "title": "Smíšek",
-      "image": "",
       "questions": [
         {
           "question": "Kdo byl Smíškův nejbližší společník??",
@@ -593,7 +577,6 @@
     {
       "id": 23,
       "title": "Arwen",
-      "image": "",
       "questions": [
         {
           "question": "Kdo je Arwenin otec?",
@@ -620,7 +603,6 @@
     {
       "id": 24,
       "title": "Celeborn",
-      "image": "",
       "questions": [
         {
           "question": "Kdo byla Celebornova manželka?",
@@ -647,7 +629,6 @@
     {
       "id": 25,
       "title": "Théoden",
-      "image": "",
       "questions": [
         {
           "question": "Jaký titul měl?",
@@ -674,7 +655,6 @@
     {
       "id": 26,
       "title": "Éowyn",
-      "image": "",
       "questions": [
         {
           "question": "Jaký vztah měla Éowyn k Théodenovi?",
@@ -701,7 +681,6 @@
     {
       "id": 27,
       "title": "Éomer",
-      "image": "",
       "questions": [
         {
           "question": "Kdo byla jeho sestra?",
@@ -728,7 +707,6 @@
     {
       "id": 28,
       "title": "Denethor",
-      "image": "",
       "questions": [
         {
           "question": "Jakou roli měl v Gondoru?",
@@ -755,7 +733,6 @@
     {
       "id": 29,
       "title": "Faramir",
-      "image": "",
       "questions": [
         {
           "question": "Jakou roli měl v Gondoru?",
@@ -782,7 +759,6 @@
     {
       "id": 30,
       "title": "Númenor",
-      "image": "",
       "questions": [
         {
           "question": "Co způsobilo pád Númenoru?",
@@ -809,7 +785,6 @@
     {
       "id": 31,
       "title": "Tom Bombadil",
-      "image": "",
       "questions": [
         {
           "question": "Jaký byl Tomův vztah k mocným bytostem Středozemě (Valar, Maiar)?",
@@ -836,7 +811,6 @@
     {
       "id": 32,
       "title": "Zlatěnka",
-      "image": "",
       "questions": [
         {
           "question": "Kdo byla Zlatěnka",
@@ -863,7 +837,6 @@
     {
       "id": 33,
       "title": "Glorfindel",
-      "image": "",
       "questions": [
         {
           "question": "K jakému rodu elfů patří?",
@@ -890,10 +863,9 @@
     {
       "id": 34,
       "title": "Radagast",
-      "image": "",
       "questions": [
         {
-          "question": "Kdo to býl?",
+          "question": "Kdo to byl?",
           "answer": "Jeden z pěti Istari (čarodějů) poslaných do Středozemě"
         },
         {
@@ -917,7 +889,6 @@
     {
       "id": 35,
       "title": "Balrogové",
-      "image": "",
       "questions": [
         {
           "question": "Kdo to byli Balrogové původně?",
@@ -944,7 +915,6 @@
     {
       "id": 36,
       "title": "Sauron",
-      "image": "",
       "questions": [
         {
           "question": "Kdo byl Sauron původně?",
@@ -971,7 +941,6 @@
     {
       "id": 37,
       "title": "Morgoth",
-      "image": "",
       "questions": [
         {
           "question": "Kdo to byl Morgoth původně?",
@@ -998,7 +967,6 @@
     {
       "id": 38,
       "title": "Silmarily",
-      "image": "",
       "questions": [
         {
           "question": "Kdo vytvořil Silmarily?",
@@ -1025,7 +993,6 @@
     {
       "id": 39,
       "title": "Příběh o Berenovi a Lúthien",
-      "image": "",
       "questions": [
         {
           "question": "Kdo byl Beren a Lúthien?",
@@ -1048,7 +1015,6 @@
     {
       "id": 40,
       "title": "Túrin Turambar",
-      "image": "",
       "questions": [
         {
           "question": "Kdo byl Túrin Turambar?",
@@ -1075,7 +1041,6 @@
     {
       "id": 41,
       "title": "Finrod",
-      "image": "",
       "questions": [
         {
           "question": "Kdo to byl Finrod?",
@@ -1101,8 +1066,7 @@
     },
     {
       "id": 42,
-      "title": "Národy elfů (Vanyar, Noldor, Teleri)",
-      "image": "",
+      "title": "Národy elfů",
       "questions": [
         {
           "question": "Kdo bylo Vanyar?",
@@ -1129,7 +1093,6 @@
     {
       "id": 43,
       "title": "Enti",
-      "image": "",
       "questions": [
         {
           "question": "Kdo to jsou Enti",
@@ -1156,7 +1119,6 @@
     {
       "id": 44,
       "title": "Nargothrond",
-      "image": "",
       "questions": [
         {
           "question": "Kdo založil Nargothrond?",
@@ -1183,7 +1145,6 @@
     {
       "id": 45,
       "title": "Skurut-hai",
-      "image": "",
       "questions": [
         {
           "question": "Kdo je vytvořil?",
@@ -1210,7 +1171,6 @@
     {
       "id": 46,
       "title": "Skřeti",
-      "image": "",
       "questions": [
         {
           "question": "Jak první skřeti vznikli?",
@@ -1237,7 +1197,6 @@
     {
       "id": 47,
       "title": "Cesta přes Caradhras",
-      "image": "",
       "questions": [
         {
           "question": "Co je Caradhras?",
@@ -1260,7 +1219,6 @@
     {
       "id": 48,
       "title": "Nazgûlové",
-      "image": "",
       "questions": [
         {
           "question": "Kdo to byli Nazgûlové",
@@ -1287,7 +1245,6 @@
     {
       "id": 49,
       "title": "Doriath",
-      "image": "",
       "questions": [
         {
           "question": "Kdo tam vládl?",
@@ -1314,7 +1271,6 @@
     {
       "id": 50,
       "title": "Cesta trpaslíků do Ereboru",
-      "image": "",
       "questions": [
         {
           "question": "Kolik bylo členů výpravy?",
@@ -1341,7 +1297,6 @@
     {
       "id": 51,
       "title": "Minas Morgul",
-      "image": "",
       "questions": [
         {
           "question": "Jaký byl původní název Minas Morgul?",
@@ -1368,7 +1323,6 @@
     {
       "id": 52,
       "title": "Barad-dûr",
-      "image": "",
       "questions": [
         {
           "question": "Jaký symbol byl spojen s Barad-dûr",
@@ -1395,7 +1349,6 @@
     {
       "id": 53,
       "title": "Hora Osudu (Orodruin)",
-      "image": "",
       "questions": [
         {
           "question": "Jaký má význam název Orodruin?",
@@ -1418,7 +1371,6 @@
     {
       "id": 54,
       "title": "Mordor",
-      "image": "",
       "questions": [
         {
           "question": "Jaký význam má název Mordor?",
@@ -1441,7 +1393,6 @@
     {
       "id": 55,
       "title": "Morannon",
-      "image": "",
       "questions": [
         {
           "question": "Jaký význam má název Morannon?",
@@ -1468,7 +1419,6 @@
     {
       "id": 56,
       "title": "Ithilien",
-      "image": "",
       "questions": [
         {
           "question": "Jaký význam má název Ithilien?",
@@ -1495,7 +1445,6 @@
     {
       "id": 57,
       "title": "Osgiliath",
-      "image": "",
       "questions": [
         {
           "question": "Jaký byl původní účel Osgiliathu?",
@@ -1522,7 +1471,6 @@
     {
       "id": 58,
       "title": "Edoras",
-      "image": "",
       "questions": [
         {
           "question": "Jako co slouží Edoras?",
@@ -1549,7 +1497,6 @@
     {
       "id": 59,
       "title": "Helmův žleb",
-      "image": "",
       "questions": [
         {
           "question": "Kde se Helmův žleb nachází?",
@@ -1576,7 +1523,6 @@
     {
       "id": 60,
       "title": "Pelennorská pole",
-      "image": "",
       "questions": [
         {
           "question": "Kde se Pelennorská pole nacházejí?",
@@ -1603,7 +1549,6 @@
     {
       "id": 61,
       "title": "Bitva u Morannonu",
-      "image": "",
       "questions": [
         {
           "question": "Kdo vedl vojska Západu v bitvě?",
@@ -1630,7 +1575,6 @@
     {
       "id": 62,
       "title": "Bitva o Helmův žleb",
-      "image": "",
       "questions": [
         {
           "question": "Kdo vedl obránce Helmova žlebu?",
@@ -1657,7 +1601,6 @@
     {
       "id": 63,
       "title": "Bitva o Osgiliath",
-      "image": "",
       "questions": [
         {
           "question": "Kdo vedl obranu města?",
@@ -1684,7 +1627,6 @@
     {
       "id": 64,
       "title": "Glum",
-      "image": "",
       "questions": [
         {
           "question": "Jaké bylo původní Glumovo jméno?",
@@ -1711,7 +1653,6 @@
     {
       "id": 65,
       "title": "Thingol",
-      "image": "",
       "questions": [
         {
           "question": "Jaké bylo původní jméno Thingola",
@@ -1738,7 +1679,6 @@
     {
       "id": 66,
       "title": "Mlžné hory",
-      "image": "",
       "questions": [
         {
           "question": "Kdo vytvořil mlžné hory?",
@@ -1765,7 +1705,6 @@
     {
       "id": 67,
       "title": "Erebor",
-      "image": "",
       "questions": [
         {
           "question": "Kdo přepadl trpasličí město v hoře a usadil se zde?",
@@ -1792,11 +1731,10 @@
     {
       "id": 68,
       "title": "Jezerní město (Esgaroth)",
-      "image": "",
       "questions": [
         {
           "question": "Jaké stavby tvořili především město?",
-          "answer": "Dřevěné domy, plouvocí na vodě"
+          "answer": "Dřevěné domy, plovoucí na vodě"
         },
         {
           "question": "Kde se nachází?",
@@ -1819,7 +1757,6 @@
     {
       "id": 69,
       "title": "Lesní říše",
-      "image": "",
       "questions": [
         {
           "question": "Kde se Lesní říše nacházela?",
@@ -1846,7 +1783,6 @@
     {
       "id": 70,
       "title": "Thranduil",
-      "image": "",
       "questions": [
         {
           "question": "Jaký titul nesl?",
@@ -1873,7 +1809,6 @@
     {
       "id": 71,
       "title": "Hůrka",
-      "image": "",
       "questions": [
         {
           "question": "Jaký typ obyvatel žil v Hůrce?",
@@ -1888,12 +1823,112 @@
           "answer": "Kopce a louky"
         },
         {
-          "question": "Kdo se zde měl setkat z Gandalfem, ale nesetkal se?",
-          "answer": "Frodo Pytlík"
+          "question": "Kdo se zde měl setkat s Frodem, ale nesetkal se? (Pán Prstenu)",
+          "answer": "Gandalf"
         },
         {
-          "question": "S kým naopak se zde setkal?",
-          "answer": "S Aragornem"
+          "question": "S kým se zde setkal Gandalf? (Hobit)",
+          "answer": "S Thorinem"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Hostinec U Skákajícího poníka",
+      "questions": [
+        {
+          "question": "Kde se nachází?",
+          "answer": "V Hůrce"
+        },
+        {
+          "question": "Kdo je zde hostinským?",
+          "answer": "Ječmínek Máselník"
+        },
+        {
+          "question": "Jaký typ nebezpečí se dostal do hostince?",
+          "answer": "Nazgûlové pátrající po hobitech s Prstenu"
+        },
+        {
+          "question": "S kým se zde Frodo setkal?",
+          "answer": "S Aragornem (Chodcem)"
+        },
+        {
+          "question": "Čím byli v hostinci hobiti udivěni ohledně velikosti?",
+          "answer": "Že se zde čepujou větší půllitry piva než v Kraji"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Roklinka",
+      "questions": [
+        {
+          "question": "Jaký je elfský název pro Roklinku?",
+          "answer": "Imladris"
+        },
+        {
+          "question": "Kdo byl pánem Roklinky?",
+          "answer": "Elrond"
+        },
+        {
+          "question": "Kdo z hobitů se zde léčil po útoku Nazgûla?",
+          "answer": "Frodo"
+        },
+        {
+          "question": "Jaký meč zde byl překován?",
+          "answer": "Narsil -> Andúril (Plamen západu)"
+        },
+        {
+          "question": "výpravy spojené s roklinkou",
+          "answer": "Trpasličí výprava k Ereboru. A Společenstvo Prstenu"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Mrtvé močály",
+      "questions": [
+        {
+          "question": "Jak vznikly?",
+          "answer": " Po Bitvě na Dagorlandu, kde padlo mnoho bojovníků"
+        },
+        {
+          "question": "Co je vidět pod hladinou močálů?",
+          "answer": "Obličeje padlích bojovníků"
+        },
+        {
+          "question": "Kdo převedl Froda a Sama přes močály?",
+          "answer": "Glum"
+        },
+        {
+          "question": "Jaké počasí tam je?",
+          "answer": "Mlha a stálé šero"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Kraj",
+      "questions": [
+        {
+          "question": "Kdo žil v Kraji?",
+          "answer": "Hobité"
+        },
+        {
+          "question": "Jaký typ krajiny tvoří Kraj",
+          "answer": "Kopce, louky, pole"
+        },
+        {
+          "question": "Jak se jmenuje hospoda zmíněná v Hobitovy kde se mají setkat?",
+          "answer": "Hostinec u zeleného poníka"
+        },
+        {
+          "question": "Jaký typ obydlí byl typický pro Kraj?",
+          "answer": "Hobití nory"
+        },
+        {
+          "question": "Kde bydlel Bilbo a Frodo Pytlík?",
+          "answer": "V Dně Pytle v Kopci nad Hobitínem"
         }
       ]
     }
