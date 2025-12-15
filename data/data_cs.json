@@ -1931,6 +1931,76 @@
           "answer": "V Dně Pytle v Kopci nad Hobitínem"
         }
       ]
+    },
+    {
+      "id": 76,
+      "title": "Caradhras",
+      "questions": [
+        {
+          "question": "Kde se Caradhras nachází?",
+          "answer": "V Mlžných horách"
+        },
+        {
+          "question": "Co leží pod horou?",
+          "answer": " Leží pod ní část Morie"
+        },
+        {
+          "question": "Jaký typ počasí zde většinu času panoval?",
+          "answer": "Sněhové bouře"
+        },
+        {
+          "question": "Jakou přezdívku si Caradhras vysloužil?",
+          "answer": "Krutý Caradhras"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Řeka Anduina",
+      "questions": [
+        {
+          "question": "Jak je Anduina dlouhá?",
+          "answer": "Je dlouhá přibližně 2 234km a je nejdelší řeka Středozemě"
+        },
+        {
+          "question": "Jaký význam má název?",
+          "answer": "Dlouhá řeka"
+        },
+        {
+          "question": "Jaký typ krajiny obklopuje řeku ve spodní části toku?",
+          "answer": "Úrodné pláně Gondoru"
+        },
+        {
+          "question": "Čí mrtvé tělo bylo vydáno řece?",
+          "answer": "Boromirovo"
+        },
+        {
+          "question": "Jakým územím řeka protéká?",
+          "answer": "Temný hvozd, Lothlórien, Rohan, Gondor"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Jezerní lidé",
+      "questions": [
+        {
+          "question": "Kde Jezerní lidé žili?",
+          "answer": "V Jezerním městě Esgarothu na Dlouhém jezeře"
+        },
+        {
+          "question": "Jakým jazykem mluvili?",
+          "answer": "Obecnou řečí"
+        },
+        {
+          "question": "Jaký typ obživy je pro ně typický",
+          "answer": "Rybolov, obchod, doprava po řece"
+        },
+        {
+          "question": "Jaký typ vlády měly?",
+          "answer": "Starostu si volili"
+        }
+      ]
     }
   ]
 }

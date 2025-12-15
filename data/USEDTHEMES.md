@@ -88,9 +88,9 @@ celkem: 86
 73. Roklinka
 74. Mrtvé močály (pouze čtyři otázky)
 75. Kraj
-76. Caradhras
+76. Caradhras (pouze čtyři otázky)
 77. Řeka Anduina
-78. Jezerní lidé
+78. Jezerní lidé (pouze čtyři otázky)
 79. Dáin Železná noha
 
 80. Thorin Pavéza
