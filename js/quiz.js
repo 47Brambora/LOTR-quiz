@@ -38,8 +38,8 @@ async function loadData() {
         return `../assets/images/${chosenTopic.image}`;
       } else {
         // pokud v JSONu cesta není užij náhodný default obrázek
-        const randomIndex = Math.floor(Math.random() * defaultImages.length);
-        return defaultImages[randomIndex];
+        const setUpDefaultImage = Math.floor(Math.random() * defaultImages.length);
+        return defaultImages[setUpDefaultImage];
       }
     }
 

@@ -2001,6 +2001,58 @@
           "answer": "Starostu si volili"
         }
       ]
+    },
+    {
+      "id": 79,
+      "title": "Dáin Železná noha",
+      "questions": [
+        {
+          "question": "Z jakého rodu trpaslíků Dáin pochází?",
+          "answer": "Durinův lid"
+        },
+        {
+          "question": "Kde se Dáin narodil?",
+          "answer": "V Železných horách"
+        },
+        {
+          "question": "Kdo byl jeho bratranec?",
+          "answer": "Thorin Pavéza"
+        },
+        {
+          "question": "Na čem jezdil?",
+          "answer": "Na divočáku"
+        },
+        {
+          "question": "Jaký titul měl před a po roce 2941?",
+          "answer": "Před měl Pán železných hor a Po měl Král pod horous"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Thorin Pavéza",
+      "questions": [
+        {
+          "question": "Jaký meč nosil?",
+          "answer": "Orcrist"
+        },
+        {
+          "question": "Jaký byl jeho hlavní cíl?",
+          "answer": "Získat zpátky Erebor a poklady v něm od draka"
+        },
+        {
+          "question": "Jak Thorin zemřel?",
+          "answer": "V Bitvě pěti armád"
+        },
+        {
+          "question": "Jakým pokladem se stal Thorin posedlým?",
+          "answer": "Byl posedlý touhou po Arcikamu"
+        },
+        {
+          "question": "Z jakého rodu trpaslíků pochází?",
+          "answer": "Z Durinova lidu"
+        }
+      ]
     }
   ]
 }
