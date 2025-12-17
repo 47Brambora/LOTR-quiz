@@ -2053,6 +2053,32 @@
           "answer": "Z Durinova lidu"
         }
       ]
+    },
+    {
+      "id": 82,
+      "title": "Fili a Kili",
+      "questions": [
+        {
+          "question": "Kdo byli?",
+          "answer": "Trpaslíci a synovci Thorina"
+        },
+        {
+          "question": "Z jakého rodu trpaslíků pochází?",
+          "answer": "Z Durinova lidu"
+        },
+        {
+          "question": "Jaké zbraně používali?",
+          "answer": "Meče a luky"
+        },
+        {
+          "question": "Jaký byli?",
+          "answer": "Odvážní, veselí, věrní"
+        },
+        {
+          "question": "S kým byli vyzvědět co je to za světlo v lese?",
+          "answer": "S Bilbem Pytlíkem"
+        }
+      ]
     }
   ]
 }
