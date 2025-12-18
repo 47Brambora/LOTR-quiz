@@ -2029,7 +2029,7 @@
       ]
     },
     {
-      "id": 81,
+      "id": 80,
       "title": "Thorin Pavéza",
       "questions": [
         {
@@ -2055,7 +2055,7 @@
       ]
     },
     {
-      "id": 82,
+      "id": 81,
       "title": "Fili a Kili",
       "questions": [
         {
@@ -2077,6 +2077,136 @@
         {
           "question": "S kým byli vyzvědět co je to za světlo v lese?",
           "answer": "S Bilbem Pytlíkem"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Balin",
+      "questions": [
+        {
+          "question": "Jaký rod trpaslíků Balin zastupoval?",
+          "answer": "Durinův lid"
+        },
+        {
+          "question": "Jaký typ zbraně používal Balin?",
+          "answer": "Meč a sekeru"
+        },
+        {
+          "question": "Kdo byl Balinův bratr?",
+          "answer": "Dwalin"
+        },
+        {
+          "question": "Jaký byl Balinův osud po Hobitovi?",
+          "answer": "Vedl výpravu trpaslíků do Morie. Kde zemřel"
+        },
+        {
+          "question": "Jaký titul Balin na krátko získal?",
+          "answer": "Pán Morie"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Dwalin",
+      "questions": [
+        {
+          "question": "Jaký rod trpaslíků Dwalin zastupoval?",
+          "answer": "Durinův lid"
+        },
+        {
+          "question": "Kdo byl Dwalinův bratr?",
+          "answer": "Balin"
+        },
+        {
+          "question": "Od kud Dwalina známe?",
+          "answer": "Z Hobita jako jednoho trpaslíka z výpravy k Ereboru"
+        },
+        {
+          "question": "Jaký typ zbraně používal Dvalin?",
+          "answer": "Sekery a meče"
+        },
+        {
+          "question": "Jaký byl Dwalin povahově?",
+          "answer": "Odvážný, věrný, drsný"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Oin a Gloin",
+      "questions": [
+        {
+          "question": "Od kud je známe?",
+          "answer": "Oba dva šli k hoře proti drakovi. A Óin vyrazil do Morie s Balinem"
+        },
+        {
+          "question": "Jakou barvu kapuce nosili?",
+          "answer": "Hnědou"
+        },
+        {
+          "question": "Jaký byl Óinův osud po znovu dobití hory?",
+          "answer": "Připojil se k Balinově výpravě do Morie a zahynul zde"
+        },
+        {
+          "question": "Jaký byl Glóinův osud?",
+          "answer": "Zůstal v Ereboru a později se účastnil Elrondovy rady"
+        },
+        {
+          "question": "Kdo byl Glóinův syn?",
+          "answer": "Gimli člen Společenstva Prstenu"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Bifur, Bofur, Bombur",
+      "questions": [
+        {
+          "question": "",
+          "answer": "Trpaslíci z Thorinovy Družiny"
+        },
+        {
+          "question": "Jakou barvu kapuce nosili?",
+          "answer": "Žlutou"
+        },
+        {
+          "question": "Kdo to byl Bifur?",
+          "answer": "Trpaslík z Thorinovy družiny, poznamenaný ranou z bitvy u Azanulbizaru"
+        },
+        {
+          "question": "Kdo to byl Bofur?",
+          "answer": "Veselý, přátelský trpaslík, bratr Bombura, laskavý k Bilbovi"
+        },
+        {
+          "question": "Kdo to byl Bombur?",
+          "answer": "Nejtlusčí trpaslík družiny, komická postava, ale statečný bojovník"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Stezky mrtvých",
+      "questions": [
+        {
+          "question": "Kde se stezky nachází?",
+          "answer": "V Bílých horách"
+        },
+        {
+          "question": "Kým byly stezky osídleny",
+          "answer": "Duchové lidí z Bílých hor, po Isildurově kletbě"
+        },
+        {
+          "question": "Kdo jimi prošel a vrátil se na zpět?",
+          "answer": "Legolas, Gimli a Aragorn (dědic Isuldura)"
+        },
+        {
+          "question": "Kde byla přísaha kterou porušili složena?",
+          "answer": "U Kamene Erechh"
+        },
+        {
+          "question": "Kdo je jediný mohl osvobodit?",
+          "answer": "Dědic Isildura"
         }
       ]
     }
