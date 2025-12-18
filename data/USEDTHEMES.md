@@ -98,5 +98,5 @@ celkem: 86
 82. Balin
 83. Dwalin
 84. Oin a Glóin
-85. Bifur, Bofur, Bombur
+85. Bifur, Bofur, Bombur (pouze čtyři otázky)
 86. Stezky mrtvých
