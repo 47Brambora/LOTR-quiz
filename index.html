@@ -9,21 +9,112 @@
       span {
         font-size: 15dvh;
       }
+
+      body {
+        position: relative;
+        overflow-x: hidden;
+        background-size: cover;
+        background-position: center;
+      }
+
+      /* background */
+      body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: var(--bg-image);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        filter: blur(0.5dvh);
+        z-index: -1;
+      }
+
+      .responsive-h1 {
+        margin: 0;
+        padding: 0 2dvh;
+        height: fit-content;
+      }
+
+      .buttons {
+        display: flex;
+        align-content: center;
+      }
+
+      #container-responsive-h1 {
+        background-color: rgba(0, 0, 0, 0.3);
+        border-radius: 5dvh;
+        margin: 15dvh 0;
+      }
+
+      @media screen and (min-width: 750px) and (max-width: 900px) {
+        #spojak {
+          display: none;
+        }
+      }
+
+      @media screen and (max-width: 750px) {
+        #spojak {
+          display: none;
+        }
+
+        #container-responsive-h1 {
+          margin: 10dvh 0;
+        }
+
+        .responsive-h1-span {
+          display: flex;
+          flex-direction: column;
+        }
+      }
     </style>
   </head>
   <body>
-    <div class="ring-of-power"></div>
-    <h1 class="responsive-h1">
-      <span class="responsive-h1-span">
-        <span>LOTR</span>
-        <span>&amp;</span>
-        <span>Hobit</span>
-      </span>
-      <span class="responsive-h1-quiz">quiz</span>
-    </h1>
+    <div id="container-responsive-h1">
+      <h1 class="responsive-h1">
+        <span class="responsive-h1-span">
+          <span>LOTR</span>
+          <span id="spojak">&amp;</span>
+          <span>Hobit</span>
+        </span>
+        <span class="responsive-h1-quiz">quiz</span>
+      </h1>
+    </div>
     <div class="buttons">
       <a href="pages/quiz.html"><button>HRÁT</button></a>
     </div>
-    <script src="./js/quiz.js"></script>
+    <script>
+      const defaultImages = [
+        "./assets/images/ChC-aragorn-and-arwen.jpg",
+        "./assets/images/ChC-eye-of-Sauron.jpg",
+        "./assets/images/ChC-frodo-and-sams-journey.jpg",
+        "./assets/images/ChC-frodo-at-rivendell.jpg",
+        "./assets/images/ChC-gandalf-and-bilbo-having-tea.jpg",
+        "./assets/images/ChC-gandalf-and-balrog.jpg",
+        "./assets/images/ChC-gandalf-pippin-and-shadowfax.jpg",
+        "./assets/images/ChC-leaving-lothlorien.jpg",
+        "./assets/images/ChC-minas-tirith-under-siege.jpg",
+        "./assets/images/ChC-sauron-the-deceiver.jpg",
+      ];
+
+      let index = 0;
+
+      // Nastavení prvního obrázku
+      document.body.style.setProperty(
+        "--bg-image",
+        `url(${defaultImages[Math.floor(Math.random() * defaultImages.length)]})`
+      );
+
+      // Interval 30s
+      setInterval(changeBackground, 30000);
+
+      function changeBackground() {
+        document.body.style.setProperty("--bg-image", `url(${defaultImages[index]})`);
+        index = (index + 1) % defaultImages.length;
+      }
+    </script>
   </body>
 </html>
