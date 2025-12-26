@@ -47,6 +47,12 @@ The following files are used with explicit permission from the original author:
   Author: marcoianna3  
   Source: https://cdn.pixabay.com/photo/2020/01/12/17/31/middle-earth-4760561_960_720.jpg
 
+## Nonsensopedia
+
+- assets/images/moria-gate.jpg  
+  Author: Unknown
+  Source: https://nonsa.pl/wiki/Plik:Moria_gate_1024.jpg
+
 <!-- Template & Licenses Template
 
 ## License name
