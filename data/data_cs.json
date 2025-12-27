@@ -192,6 +192,7 @@
     {
       "id": 8,
       "title": "Moria",
+      "image": "moria-gate.jpg",
       "questions": [
         {
           "question": "Kdo byl poslední král Morie?",
@@ -240,6 +241,7 @@
     {
       "id": 10,
       "title": "Saruman",
+      "image": "saruman.png",
       "questions": [
         {
           "question": "Jak se jmenuje věž ve, které sídlí Saruman?",
@@ -266,6 +268,7 @@
     {
       "id": 11,
       "title": "Společenstvo prstenu",
+      "image": "the-fellowship-of-the-ring.jpg",
       "questions": [
         {
           "question": "Kolik má Společenstvo členů?",
@@ -292,6 +295,7 @@
     {
       "id": 12,
       "title": "Bilbo Pytlík",
+      "image": "ChC-bilbo-baggins.jpg",
       "questions": [
         {
           "question": "Kde žil Bilbo po tom co utekl z Kraje?",
@@ -318,6 +322,7 @@
     {
       "id": 13,
       "title": "Frodo Pytlík",
+      "image": "ChC-frodo-and-sams-journey.jpg",
       "questions": [
         {
           "question": "Kdo je Frodův strýc?",
