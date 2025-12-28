@@ -38,7 +38,6 @@ p {
   flex-direction: column;
   text-align: center;
   margin: 15dvh;
-  -webkit-text-stroke: 0.5dvh rgb(139, 120, 0);
 }
 
 .buttons {
