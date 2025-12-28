@@ -5,10 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../styles/style.css" />
     <style>
+      #quiz-span {
+        display: none;
+      }
+
       #img {
         height: 40dvh;
         width: 50dvh;
-        border: solid 1dvh rgb(194, 165, 0);
+        border: solid 5px rgb(194, 165, 0);
         border-radius: 8% / 10%;
         overflow: hidden;
       }
@@ -63,14 +67,53 @@
       #questions {
         margin-bottom: 1dvh;
       }
+
+      /* Mobil */
+      @media screen and (max-width: 600px) {
+        .responsive-h1 {
+          font-size: 7dvh;
+          margin: 1dvh 0;
+        }
+
+        #spojak,
+        #hobit-span {
+          display: none;
+        }
+        #img {
+          width: calc(50dvh - 5px);
+          border: solid 2.5px;
+        }
+
+        #img img {
+        }
+
+        button {
+        }
+
+        .buttons {
+        }
+
+        #btnShowID {
+        }
+
+        #topic {
+        }
+
+        #questionList {
+        }
+
+        #questions {
+        }
+      }
     </style>
     <title>LOTR & Hobit quiz</title>
   </head>
   <body>
     <h1 class="responsive-h1">
       <span>LOTR</span>
-      <span>&amp;</span>
-      <span>Hobit</span>
+      <span id="spojak">&amp;</span>
+      <span id="hobit-span">Hobit</span>
+      <span id="quiz-span">quiz</span>
     </h1>
     <h2 id="topic">Téma:</h2>
     <div id="img"><!--Sem se vepisuje obrázek pomocí quiz.js--></div>
