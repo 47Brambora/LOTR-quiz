@@ -1,4 +1,3 @@
-<!--TODO: Je potřeba vyřešit téma jak udělat aby na mobilu tam zmizelo, ale nějak mi to nefachá. Je potřeba vyřešit jak to udělat s quiz.js atd...-->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -50,7 +49,7 @@
         width: fit-content;
         padding: 0;
         border: none;
-        font-size: x-small;
+        font-size: 1dvh;
         background-color: transparent;
         margin: 0;
       }
@@ -63,10 +62,6 @@
       .topic {
         font-size: 5dvh;
         margin: 1dvh 0;
-      }
-
-      #topic-topic {
-        display: none;
       }
 
       #questionList {
@@ -108,9 +103,12 @@
         }
 
         button {
+          border: solid 2.5px;
+          margin: 0;
         }
 
         .buttons {
+          margin: 0 0 1dvh 0;
         }
 
         #btnShowID {
@@ -118,9 +116,11 @@
 
         .topic {
           margin: 0.5dvh 0;
+          text-align: center;
         }
 
         #questionList {
+          margin: 1dvh 0;
         }
 
         #questions {
@@ -137,7 +137,6 @@
       <span id="quiz-span">quiz</span>
     </h1>
     <div id="topic-container">
-      <h2 id="topic-topic" class="topic">Téma:</h2>
       <h2 id="topic" class="topic"></h2>
     </div>
     <div id="img"><!--Sem se vepisuje obrázek pomocí quiz.js--></div>
