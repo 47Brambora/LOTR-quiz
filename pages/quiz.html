@@ -1,3 +1,4 @@
+<!--TODO: Je potřeba vyřešit téma jak udělat aby na mobilu tam zmizelo, ale nejdříve se nezapomeň blbče zeptat jestli to tak vypadá dobře a dává do vůbec smysl-->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -54,9 +55,18 @@
         margin: 0;
       }
 
-      #topic {
+      #topic-container {
+        display: flex;
+        flex-direction: row;
+      }
+
+      .topic {
         font-size: 5dvh;
         margin: 1dvh 0;
+      }
+
+      #topic-topic {
+        display: none;
       }
 
       #questionList {
@@ -70,17 +80,27 @@
 
       /* Mobil */
       @media screen and (max-width: 600px) {
+        body {
+          height: calc(100dvh - 10px);
+        }
+
         .responsive-h1 {
           font-size: 7dvh;
-          margin: 1dvh 0;
+          margin: 2.5dvh 0 0.5dvh 0;
         }
 
         #spojak,
         #hobit-span {
           display: none;
         }
+
+        #quiz-span {
+          display: block;
+        }
+
         #img {
           width: calc(50dvh - 5px);
+          height: calc(40dvh - 5px);
           border: solid 2.5px;
         }
 
@@ -96,7 +116,8 @@
         #btnShowID {
         }
 
-        #topic {
+        .topic {
+          margin: 0.5dvh 0;
         }
 
         #questionList {
@@ -115,7 +136,10 @@
       <span id="hobit-span">Hobit</span>
       <span id="quiz-span">quiz</span>
     </h1>
-    <h2 id="topic">Téma:</h2>
+    <div id="topic-container">
+      <h2 id="topic-topic" class="topic">Téma:</h2>
+      <h2 id="topic" class="topic"></h2>
+    </div>
     <div id="img"><!--Sem se vepisuje obrázek pomocí quiz.js--></div>
     <ol id="questionList"></ol>
     <div class="buttons">
