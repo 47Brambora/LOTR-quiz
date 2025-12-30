@@ -42,6 +42,7 @@
       }
 
       #btnShowID {
+        font-size: 10px;
         position: fixed;
         left: 2dvh;
         bottom: 2dvh;
@@ -49,7 +50,6 @@
         width: fit-content;
         padding: 0;
         border: none;
-        font-size: 1dvh;
         background-color: transparent;
         margin: 0;
       }
@@ -73,6 +73,10 @@
         margin-bottom: 1dvh;
       }
 
+      .pleaseRotateToPortrait {
+        display: none;
+      }
+
       /* Mobil */
       @media screen and (max-width: 600px) {
         body {
@@ -80,6 +84,7 @@
         }
 
         .responsive-h1 {
+          align-items: flex-start;
           font-size: 7dvh;
           margin: 2.5dvh 0 0.5dvh 0;
         }
@@ -94,12 +99,10 @@
         }
 
         #img {
-          width: calc(50dvh - 5px);
-          height: calc(40dvh - 5px);
+          aspect-ratio: 5 / 4;
+          width: 90dvw;
+          height: auto;
           border: solid 2.5px;
-        }
-
-        #img img {
         }
 
         button {
@@ -109,6 +112,8 @@
 
         .buttons {
           margin: 0 0 1dvh 0;
+          display: flex;
+          align-items: flex-end;
         }
 
         #btnShowID {
@@ -123,13 +128,34 @@
           margin: 1dvh 0;
         }
 
-        #questions {
+        .spacer {
+          height: calc(1dvh + 10px);
+        }
+      }
+
+      @media (hover: none) and (pointer: coarse) and (orientation: landscape) {
+        .responsive-h1,
+        #topic-container,
+        #img,
+        #questionList,
+        .buttons,
+        #btnShowID {
+          display: none;
+        }
+
+        .pleaseRotateToPortrait {
+          display: block;
+          text-align: center;
         }
       }
     </style>
     <title>LOTR & Hobit quiz</title>
   </head>
   <body>
+    <!--TODO: Odebrat jakmile budu mít rozvržení pro mobily na šířku -->
+    <div class="pleaseRotateToPortrait">
+      <h1>Prosím otočte telefon zpět do svislé polohy</h1>
+    </div>
     <h1 class="responsive-h1">
       <span>LOTR</span>
       <span id="spojak">&amp;</span>
@@ -145,6 +171,7 @@
       <button id="btnShowAnswers">Ukázat Odpovědi</button>
       <button id="btnNextTopic">Další Otázky</button>
     </div>
+    <div class="spacer"></div>
     <button id="btnShowID">ID</button>
     <script src="../js/quiz.js"></script>
   </body>
