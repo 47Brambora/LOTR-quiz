@@ -1,0 +1,31 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Gandalf",
+      "image": "gandalf-grey.png",
+      "questions": [
+        {
+          "question": "What was Gandalf's original name among rhe Maiar?",
+          "answer": "Olórin"
+        },
+        {
+          "question": "What color was Gandalf at the beginning of the story?",
+          "answer": "Grey"
+        },
+        {
+          "question": "Who send Gandalf to Middle-earth?",
+          "answer": "The Valar"
+        },
+        {
+          "question": "What sword did Gandalf carry?",
+          "answer": "Glamdring"
+        },
+        {
+          "question": "Who became Gandalf's horse?",
+          "answer": "Shadowflax"
+        }
+      ]
+    }
+  ]
+}
