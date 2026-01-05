@@ -79,9 +79,14 @@
       </h1>
     </div>
     <div class="buttons">
-      <a href="pages/quiz.html"><button>HRÁT</button></a>
+      <button onclick="startQuiz('en')">PLAY</button>
+      <button onclick="startQuiz('cs')">HRÁT</button>
     </div>
     <script>
+      function startQuiz(lang) {
+        window.location.href = "./pages/quiz.html?lang=" + lang;
+      }
+
       const defaultImages = [
         "./assets/images/ChC-aragorn-and-arwen.jpg",
         "./assets/images/ChC-eye-of-Sauron.jpg",

@@ -64,6 +64,12 @@
         margin-bottom: 1dvh;
       }
     </style>
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const lang = params.get("lang") || "en";
+
+      console.log(lang);
+    </script>
     <title>LOTR & Hobit quiz</title>
   </head>
   <body>
