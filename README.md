@@ -79,7 +79,7 @@ This project uses **Mongoose** as lightweight local web server.
 2. Place `mongose.exe` into the main project folder (next to `index.html`)
 3. Launch the project using `start.bat`
 
-####**3) Running the project**
+#### **3) Running the project**
 
 After completing the steps above:
 
