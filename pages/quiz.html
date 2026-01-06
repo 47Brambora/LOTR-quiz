@@ -83,12 +83,12 @@
     <button id="btnShowID">ID</button>
     <script src="../js/quiz.js"></script>
     <script>
-      const params = new URLSearchParams(window.location.search);
-      const lang = params.get("lang") || "en";
+      const quizParams = new URLSearchParams(window.location.search);
+      const quizLang = quizParams.get("lang") || "en";
 
-      console.log(lang);
+      console.log(quizLang);
 
-      const translations = {
+      const quizTranslations = {
         cs: {
           btnShowAnswers: "Ukázat odpovědi",
           btnNextTopic: "Další otázky",
@@ -99,8 +99,8 @@
         },
       };
 
-      document.getElementById("btnShowAnswers").textContent = translations[lang].btnShowAnswers;
-      document.getElementById("btnNextTopic").textContent = translations[lang].btnNextTopic;
+      document.getElementById("btnShowAnswers").textContent = quizTranslations[quizLang].btnShowAnswers;
+      document.getElementById("btnNextTopic").textContent = quizTranslations[quizLang].btnNextTopic;
     </script>
   </body>
 </html>
