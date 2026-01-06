@@ -16,7 +16,7 @@ const translation = {
 // TODO: Přepsat funkci do menších úseků které se pak budou lépe využívat pro další postup v projektu a dodělávání nových gamemodů
 async function loadData() {
   try {
-    const res = await fetch("../data/data_cs.json");
+    const res = await fetch("../data/data_" + [lang] + ".json");
     if (!res.ok) throw new Error(`Fetch selhal: ${res.status}`);
     const data = await res.json();
 
