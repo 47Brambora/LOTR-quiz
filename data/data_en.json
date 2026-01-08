@@ -26,6 +26,33 @@
           "answer": "Shadowflax"
         }
       ]
+    },
+    {
+      "id": 2,
+      "title": "The Ring",
+      "image": "ring-of-power.jpg",
+      "questions": [
+        {
+          "question": "Who forget the One Ring?",
+          "answer": "Sauron"
+        },
+        {
+          "question": "In which mountain was the Ring destroyed?",
+          "answer": "In fire-chambers of Orodruin"
+        },
+        {
+          "question": "Who foughd the Ring after Isildur's death?",
+          "answer": "Gollum"
+        },
+        {
+          "question": " What inscription appers upon heating The Ring?",
+          "answer": "One Ring to rule them all..."
+        },
+        {
+          "question": "Who went to Mordor with Ring?",
+          "answer": "Frodo"
+        }
+      ]
     }
   ]
 }
