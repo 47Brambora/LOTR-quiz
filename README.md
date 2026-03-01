@@ -94,12 +94,12 @@ After completing the steps above:
 ### 🇨🇿 / 🇸🇰
 
 Obrázky použité v projektu pocházejí z různých zdrojů a mají různé licence.  
-Podrobnosti najdete v souboru **[CREDITS.md](CREDITS.md)**.
+Podrobnosti najdete v souboru **[CREDITS.md](/doc/CREDITS.md)**.
 
 ### 🇬🇧
 
 The images used in this project come from various sources and have different licenses.  
-For full details, see **[CREDITS.md](CREDITS.md)**.
+For full details, see **[CREDITS.md](/doc/CREDITS.md)**.
 
 ---
 
