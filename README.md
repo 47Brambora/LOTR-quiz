@@ -79,7 +79,7 @@ This project uses **Mongoose** as lightweight local web server.
 2. Place `mongose.exe` into the main project folder (next to `index.html`)
 3. Launch the project using `start.bat`
 
-####**3) Running the project**
+#### **3) Running the project**
 
 After completing the steps above:
 
@@ -94,12 +94,12 @@ After completing the steps above:
 ### 🇨🇿 / 🇸🇰
 
 Obrázky použité v projektu pocházejí z různých zdrojů a mají různé licence.  
-Podrobnosti najdete v souboru **[CREDITS.md](CREDITS.md)**.
+Podrobnosti najdete v souboru **[CREDITS.md](/doc/CREDITS.md)**.
 
 ### 🇬🇧
 
 The images used in this project come from various sources and have different licenses.  
-For full details, see **[CREDITS.md](CREDITS.md)**.
+For full details, see **[CREDITS.md](/doc/CREDITS.md)**.
 
 ---
 
