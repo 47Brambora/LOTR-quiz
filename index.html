@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -41,8 +41,10 @@
       }
 
       .buttons {
+        width: 500px;
         display: flex;
         align-content: center;
+        justify-content: space-evenly;
       }
 
       #container-responsive-h1 {
@@ -105,7 +107,7 @@
       // Nastavení prvního obrázku
       document.body.style.setProperty(
         "--bg-image",
-        `url(${defaultImages[Math.floor(Math.random() * defaultImages.length)]})`
+        `url(${defaultImages[Math.floor(Math.random() * defaultImages.length)]})`,
       );
 
       // Interval 30s
