@@ -150,6 +150,7 @@
         }
       }
     </style>
+    <script></script>
     <title>LOTR & Hobit quiz</title>
   </head>
   <body>
@@ -170,11 +171,31 @@
     <div id="img"><!--Sem se vepisuje obrázek pomocí quiz.js--></div>
     <ol id="questionList"></ol>
     <div class="buttons">
-      <button id="btnShowAnswers">Ukázat Odpovědi</button>
-      <button id="btnNextTopic">Další Otázky</button>
+      <button id="btnShowAnswers"></button>
+      <button id="btnNextTopic"></button>
     </div>
     <div class="spacer"></div>
     <button id="btnShowID">ID</button>
     <script src="../js/quiz.js"></script>
+    <script>
+      const quizParams = new URLSearchParams(window.location.search);
+      const quizLang = quizParams.get("lang") || "en";
+
+      console.log(quizLang);
+
+      const quizTranslations = {
+        cs: {
+          btnShowAnswers: "Ukázat odpovědi",
+          btnNextTopic: "Další otázky",
+        },
+        en: {
+          btnShowAnswers: "Show Answers",
+          btnNextTopic: "Next questions",
+        },
+      };
+
+      document.getElementById("btnShowAnswers").textContent = quizTranslations[quizLang].btnShowAnswers;
+      document.getElementById("btnNextTopic").textContent = quizTranslations[quizLang].btnNextTopic;
+    </script>
   </body>
 </html>

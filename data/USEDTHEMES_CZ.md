@@ -1,6 +1,4 @@
-# Used Themes (title) in quiz
-
-## Česká témata
+# Použité témata v kvízu (CZ)
 
 celkem: 86
 

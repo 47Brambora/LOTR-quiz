@@ -1,7 +1,22 @@
+// Translation of topic in quiz.html
+const params = new URLSearchParams(window.location.search);
+const lang = params.get("lang") || "en";
+
+console.log("quiz.js: " + lang);
+
+const translation = {
+  cs: {
+    topic: "Téma: ",
+  },
+  en: {
+    topic: "Topic: ",
+  },
+};
+
 // TODO: Přepsat funkci do menších úseků které se pak budou lépe využívat pro další postup v projektu a dodělávání nových gamemodů
 async function loadData() {
   try {
-    const res = await fetch("../data/data_cs.json");
+    const res = await fetch("../data/data_" + [lang] + ".json");
     if (!res.ok) throw new Error(`Fetch selhal: ${res.status}`);
     const data = await res.json();
 
@@ -23,6 +38,7 @@ async function loadData() {
     };
 
     //Nastavení tématu
+    document.getElementById("topic").textContent = translation[lang].topic + chosenTopic.title;
     document.getElementById("topic").textContent = useThemeOrNot(cssWidth) + chosenTopic.title;
 
     // Default images
