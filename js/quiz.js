@@ -13,8 +13,17 @@ async function loadData() {
     window.currentTopicID = randomID;
     window.currentTopic = chosenTopic;
 
+    // šířka viditelného pole
+    const cssWidth = window.innerWidth;
+
+    // Mám užít téma nebo ne? založeno na šířce
+    const useThemeOrNot = (cssWidth) => {
+      if (cssWidth < 600) return "";
+      else return "Téma: ";
+    };
+
     //Nastavení tématu
-    document.getElementById("topic").textContent = "Téma: " + chosenTopic.title;
+    document.getElementById("topic").textContent = useThemeOrNot(cssWidth) + chosenTopic.title;
 
     // Default images
     const defaultImages = [

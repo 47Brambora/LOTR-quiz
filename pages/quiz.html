@@ -3,12 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/assets/fonts/material-icons/iconfont/material-icons.css" rel="stylesheet" />
     <link rel="stylesheet" href="../styles/style.css" />
     <style>
+      #quiz-span {
+        display: none;
+      }
+
       #img {
         height: 40dvh;
         width: 50dvh;
-        border: solid 1dvh rgb(194, 165, 0);
+        border: solid 5px rgb(194, 165, 0);
         border-radius: 8% / 10%;
         overflow: hidden;
       }
@@ -38,6 +43,7 @@
       }
 
       #btnShowID {
+        font-size: 10px;
         position: fixed;
         left: 2dvh;
         bottom: 2dvh;
@@ -45,12 +51,16 @@
         width: fit-content;
         padding: 0;
         border: none;
-        font-size: x-small;
         background-color: transparent;
         margin: 0;
       }
 
-      #topic {
+      #topic-container {
+        display: flex;
+        flex-direction: row;
+      }
+
+      .topic {
         font-size: 5dvh;
         margin: 1dvh 0;
       }
@@ -63,22 +73,107 @@
       #questions {
         margin-bottom: 1dvh;
       }
+
+      .pleaseRotateToPortrait {
+        display: none;
+      }
+
+      /* Mobil */
+      @media screen and (max-width: 600px) {
+        body {
+          height: calc(100dvh - 10px);
+        }
+
+        .responsive-h1 {
+          align-items: flex-start;
+          font-size: 7dvh;
+          margin: 2.5dvh 0 0.5dvh 0;
+        }
+
+        #spojak,
+        #hobit-span {
+          display: none;
+        }
+
+        #quiz-span {
+          display: block;
+        }
+
+        #img {
+          aspect-ratio: 5 / 4;
+          width: 90dvw;
+          height: auto;
+          border: solid 2.5px;
+        }
+
+        button {
+          border: solid 2.5px;
+          margin: 0;
+        }
+
+        .buttons {
+          margin: 0 0 1dvh 0;
+          display: flex;
+          align-items: flex-end;
+        }
+
+        #btnShowID {
+        }
+
+        .topic {
+          margin: 0.5dvh 0;
+          text-align: center;
+        }
+
+        #questionList {
+          margin: 1dvh 0;
+        }
+
+        .spacer {
+          height: calc(1dvh + 10px);
+        }
+      }
+
+      @media (hover: none) and (pointer: coarse) and (orientation: landscape) {
+        .responsive-h1,
+        #topic-container,
+        #img,
+        #questionList,
+        .buttons,
+        #btnShowID {
+          display: none;
+        }
+
+        .pleaseRotateToPortrait {
+          display: block;
+          text-align: center;
+        }
+      }
     </style>
     <title>LOTR & Hobit quiz</title>
   </head>
   <body>
+    <!--TODO: Odebrat jakmile budu mít rozvržení pro mobily na šířku -->
+    <div class="pleaseRotateToPortrait">
+      <h1>Prosím otočte telefon zpět do svislé polohy</h1>
+      <i class="material-icons">screen_rotation</i>
+    </div>
     <h1 class="responsive-h1">
       <span>LOTR</span>
-      <span>&amp;</span>
-      <span>Hobit</span>
+      <span id="spojak">&amp;</span>
+      <span id="hobit-span">Hobit</span>
+      <span id="quiz-span">quiz</span>
     </h1>
-    <h2 id="topic">Téma:</h2>
+    <div id="topic-container">
+      <h2 id="topic" class="topic"></h2>
+    </div>
     <div id="img"><!--Sem se vepisuje obrázek pomocí quiz.js--></div>
     <ol id="questionList"></ol>
     <div class="buttons">
       <button id="btnShowAnswers">Ukázat Odpovědi</button>
       <button id="btnNextTopic">Další Otázky</button>
     </div>
+    <div class="spacer"></div>
     <button id="btnShowID">ID</button>
     <script src="../js/quiz.js"></script>
   </body>
