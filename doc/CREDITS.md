@@ -1,6 +1,6 @@
 # Credits & Licenses
 
-This project uses images from various sources. Authors and licenses are listed below.
+This project uses images from various sources. Authors and licenses if there some are listed below.
 
 ## Permission granted by author
 
@@ -46,6 +46,22 @@ The following files are used with explicit permission from the original author:
 - assets/images/map-gondor.jpg  
   Author: marcoianna3  
   Source: https://cdn.pixabay.com/photo/2020/01/12/17/31/middle-earth-4760561_960_720.jpg
+
+## Nonsensopedia
+
+- assets/images/moria-gate.jpg  
+  Author: Unknown
+  Source: https://nonsa.pl/images/3/3b/Moria_gate_1024.jpg
+
+## GoodFon.com
+
+- assets/images/saruman.png
+  Author: Nimarra
+  Source: https://img.goodfon.com/original/1920x1080/8/43/badfon-art-guardians-of-middle-earth.jpg
+
+- assets/images/the-fellowship-of-the-ring.jpg
+  Author: Users Kipish_fön
+  Source: https://img.goodfon.com/wallpaper/nbig/a/6d/cakes-comics-cakescomics-matt-ferguson-by-matt-ferguson-ar-5.webp
 
 <!-- Template & Licenses Template
 

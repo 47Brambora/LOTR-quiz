@@ -165,6 +165,7 @@
     {
       "id": 7,
       "title": "Lothlórien",
+      "image": "ChC-leaving-lothlorien.jpg",
       "questions": [
         {
           "question": "Kdo vládne Lothlórienu?",
@@ -191,6 +192,7 @@
     {
       "id": 8,
       "title": "Moria",
+      "image": "moria-gate.jpg",
       "questions": [
         {
           "question": "Kdo byl poslední král Morie?",
@@ -206,7 +208,7 @@
         },
         {
           "question": "Jak se jmenuje jezero před branou Morie",
-          "answer": "Černí tůň"
+          "answer": "Černé jezero"
         }
       ]
     },
@@ -239,6 +241,7 @@
     {
       "id": 10,
       "title": "Saruman",
+      "image": "saruman.png",
       "questions": [
         {
           "question": "Jak se jmenuje věž ve, které sídlí Saruman?",
@@ -265,6 +268,7 @@
     {
       "id": 11,
       "title": "Společenstvo prstenu",
+      "image": "the-fellowship-of-the-ring.jpg",
       "questions": [
         {
           "question": "Kolik má Společenstvo členů?",
@@ -291,6 +295,7 @@
     {
       "id": 12,
       "title": "Bilbo Pytlík",
+      "image": "ChC-bilbo-baggins.jpg",
       "questions": [
         {
           "question": "Kde žil Bilbo po tom co utekl z Kraje?",
@@ -317,6 +322,7 @@
     {
       "id": 13,
       "title": "Frodo Pytlík",
+      "image": "ChC-frodo-and-sams-journey.jpg",
       "questions": [
         {
           "question": "Kdo je Frodův strýc?",
@@ -762,10 +768,10 @@
       "questions": [
         {
           "question": "Co způsobilo pád Númenoru?",
-          "answer": "Pýcha Númenorejců a vzpoura proti Valarům."
+          "answer": "Pýcha Númenorejců a vzpoura proti Valar"
         },
         {
-          "question": "Jaký byl vztah Númenorejců k Valarům na začátku jejich dějin?",
+          "question": "Jaký byl vztah Númenorejců k Valar na začátku jejich dějin?",
           "answer": "Byli jim vděční a uctívali je"
         },
         {
@@ -934,7 +940,7 @@
         },
         {
           "question": "Jak Sauron přispěl k pádu Númenoru?",
-          "answer": "Oklamal krále Ar-Pharazôna a svedl Númenorejce k vzpouře proti Valarům"
+          "answer": "Oklamal krále Ar-Pharazôna a svedl Númenorejce k vzpouře proti Valar"
         }
       ]
     },
@@ -1052,7 +1058,7 @@
         },
         {
           "question": "Jaký byl Finrodův vztah k Valarům?",
-          "answer": "Respektoval je, ale odešel s Noldory do Středozemě"
+          "answer": "Respektoval je, ale odešel s Noldor do Středozemě"
         },
         {
           "question": "Jaký symbol představuje?",
@@ -1070,7 +1076,7 @@
       "questions": [
         {
           "question": "Kdo bylo Vanyar?",
-          "answer": "Nejstarší elfský národ, nejbližší Valarům, žili převážně ve Valinoru."
+          "answer": "Nejstarší elfský národ, nejbližší Valar, žili převážně ve Valinoru."
         },
         {
           "question": "Kdo byli Noldor?",
@@ -1081,7 +1087,7 @@
           "answer": "Třetí elfský národ, nejpočetnější, milovali moře a hudbu. Byli dobří stavitelé lodí"
         },
         {
-          "question": "Králové (1.)Vanyarů, (2.)Noldorů, (3.)Teleriů?",
+          "question": "Králové (1.)Vanyar, (2.)Noldor, (3.)Teleri?",
           "answer": "(1.) Ingwë (nejvyšší král všech elfů), (2.) Finwë, (3.) Elwë (Thingol) a jeho bratr Olwë"
         },
         {
@@ -1348,7 +1354,7 @@
     },
     {
       "id": 53,
-      "title": "Hora Osudu (Orodruin)",
+      "title": "Hora Osudu",
       "questions": [
         {
           "question": "Jaký má význam název Orodruin?",
@@ -1772,7 +1778,7 @@
         },
         {
           "question": "Jaký typ prostředí obklopuje Lesní říši?",
-          "answer": "hustý les"
+          "answer": "Hustý les"
         },
         {
           "question": "jaký typ Hrozby ohrožoval Lesní říši?",
