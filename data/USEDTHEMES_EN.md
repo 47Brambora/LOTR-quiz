@@ -2,6 +2,7 @@
 
 Total: 1
 
-### Topics
+## Topics
 
 1.  Gandalf
+2.  The Ring

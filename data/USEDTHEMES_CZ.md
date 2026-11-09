@@ -2,7 +2,7 @@
 
 celkem: 86
 
-### Témata
+## Témata
 
 1.  Gandalf
 2.  Prsten moci
