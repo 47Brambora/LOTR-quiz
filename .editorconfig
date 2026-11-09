@@ -1,0 +1,57 @@
+# EditorConfig
+
+root = true
+
+[*]
+# Unix line ending as default
+end_of_line = lf
+
+# Add newline at the end of files
+insert_final_newline = true
+
+# Remove whitespace at the end of lines
+trim_trailing_whitespace = true
+
+# Default character set 
+charset = utf-8
+
+# Default indentation
+indent_style = space
+indent_size = 4
+
+# Python files 
+[*.py]
+indent_size = 4
+
+# Windows Batch scripts
+[*.{bat,cmd}]
+end_of_line = crlf
+
+# Markdown
+[*.md]
+trim_trailing_whitespace = false
+indent_size = 2
+
+# JavaScript
+[*.js]
+indent_size = 2
+
+# JSON files
+[*.json]
+indent_size = 2
+
+# HTML
+[*.html]
+indent_size = 2
+
+# CSS
+[*.css]
+indent_size = 2
+
+# YAML
+[*.{yml,yaml}]
+indent_size = 2
+
+# SVG
+[*.svg]
+indent_size = 2
