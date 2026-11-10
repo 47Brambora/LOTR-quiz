@@ -7,7 +7,9 @@ authors = [
     { name = "47Brambora", email = "47Brambora@gmail.com" }
 ]
 requires-python = ">=3.15"
-dependencies = []
+dependencies = [
+    "colored>=2.3.2",
+]
 
 [project.scripts]
 lotr-quiz = "lotr_quiz:main"
