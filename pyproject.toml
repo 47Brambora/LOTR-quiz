@@ -1,7 +1,7 @@
 [project]
 name = "lotr-quiz"
 version = "1.1.2"
-description = "Add your description here"
+description = "This project is a fan-made quiz inspired by the world of J. R. R. Tolkien."
 readme = "README.md"
 authors = [
     { name = "47Brambora", email = "47Brambora@gmail.com" }
